@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hdr on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/hdr/</link>
+    <description>Recent content in Hdr on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 20 Feb 2019 23:56:04 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/hdr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PIXELA Smart Box</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190220_pixela/</link>
+      <pubDate>Wed, 20 Feb 2019 23:56:04 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190220_pixela/</guid>
+      <description>Amazonマーケットプレイス出店記念セールで、4K/HDRに対応した「PIXELA Smart BOX(KSTB5043)」が4,980円 というニュース。
+先日、Fire TV Stick 4Kをポチッたばかりだが、Fire OSなAmazon Fire TVでなく、ジェネリックなAndroidのAndroid TVも必要かと。
+CPUはAndroid TVのセットトップボックスとしてはポピュラーなAmlogic S905 (ARM Cotex-A53) Quad-core 2GHzとの事。「クアッドコア1.7GHz」なFire TV Stick 4Kよりも強力だが、通常売価に見合うだけの差があるかどうか、乞うご期待。</description>
+    </item>
+    
+  </channel>
+</rss>

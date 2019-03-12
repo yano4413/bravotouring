@@ -6,21 +6,405 @@
     <description>Recent content in Posts on New bravotoring Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Thu, 08 Sep 2016 16:44:57 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2019 06:58:12 +0900</lastBuildDate>
     
 	<atom:link href="http://yano4413.github.io/bravotouring/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>iPhone 7</title>
-      <link>http://yano4413.github.io/bravotouring/post/sample/</link>
-      <pubDate>Thu, 08 Sep 2016 16:44:57 +0900</pubDate>
+      <title>確定申告終了</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190309_etax/</link>
+      <pubDate>Sat, 09 Mar 2019 06:58:12 +0900</pubDate>
       
-      <guid>http://yano4413.github.io/bravotouring/post/sample/</guid>
-      <description>8日に開催されたアップルスペシャルイベント。
-イヤホンジャックの廃止とIPX7防水、デュアルカメラ(Plus)などリーク情報通り、『iPhone 7』と『iPhone 7 Plus』が発表された。 日本市場的にはFeliCa対応が大きい気がするが、ティム・クックの言うところの「想像もつかない新機能」って結局何を指していたのだろうね。何となくAirPodsのような気もするが、1月にはiPhone 7向けに完全ケーブルレスBluetoothイヤホンを開発中のような話も流れていたので、謎のままだ。
-慣例に倣って昨年9月に発表されたiPhone 6sと今年3月に発表されたiPhone SEはApple Storeの取り扱いを継続。
-今年4月に続いての値下げとなる事もあり、iPhone SE 64GB版が とか、随分と値頃感が高まってきたな。</description>
+      <guid>http://yano4413.github.io/bravotouring/post/20190309_etax/</guid>
+      <description>今年は2月14日から始めた帳簿付け。
+3日間で各口座明細のダウンロードと整理、会計freee(フリー)への登録まで完了。
+現金出納の明細整理とか、固定資産の減価償却計算などを行い、所得控除の内容を精査。
+今年は12月にマイナンバーカードを発行したので、電子証明書を再登録しないとな～と思って調べてみたところ、やっぱりマイナンバーカードを取得された方へのお知らせに マイナンバーカード(電子証明書は標準的に組み込まれます。)を利用して、e-Taxにより申告手続等を行う場合は、マイナンバーカードの電子証明書をe-Taxに登録する必要があります。　また、既に住民基本台帳カードの電子証明書をe-Taxに登録している場合についても、新たに取得したマイナンバーカードの電子証明書をe-Taxに再登録する必要があります。　なお、電子証明書の登録・再登録の方法については、確定申告書等作成コーナー「『利用者識別番号等の入力画面』からの電子証明書の登録・再登録方法」をご確認ください。 と書いてあった のだが、平成30年分 確定申告書等作成コーナーに『利用者識別番号等の入力画面』が無く、思わぬ落とし穴に難航。
+最終的にe-Taxのクライアントソフトウェアをインストールして「利用者情報、電子証明書の登録」を行って平成最後の確定申告 を完了したのだが、どうやらe-Tax利用の簡便化という改修で「e-Taxソフト(WEB版)」に「マイナンバーカード方式」でログインすればe-Taxを利用するために事前準備として必要であった電子証明書の登録が不要です。 という事になったらしい。
+結果的に随分と無駄な時間を過ごしたようだが、ぜひ来年度はe-Taxソフト（WEB版）がInternet Explorer 11しか対応していない問題を解決して下さいませ。
+以前書いた、Google Apps Scriptでクレジットカード利用明細を毎月自動で奥さんにメール送信するとか金融データAPIのMT LINKとか参考に、自力でやる話は宿題に。</description>
+    </item>
+    
+    <item>
+      <title>WINDS運用終了</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190302_winds/</link>
+      <pubDate>Sat, 02 Mar 2019 23:43:50 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190302_winds/</guid>
+      <description>超高速インターネット衛星「きずな」運用終了というニュース。
+2008年2月23日にH-IIAロケット14号機によって打ち上げられた後、設計寿命の5年を超える11年の永きに渡って運用された事になる。
+仕事上でも縁があった事もあり、&amp;quot;きずな&amp;quot;より&amp;quot;WINDS&amp;quot;の方が馴染み深いのだが、何はともあれ無事これ名馬、お疲れ様でした。
+53バイト固定長パケットを扱うATMプロトコルを採用したという事もあって何かにつけて気になっていたのだが、これで実運用のATM網がまた一つ消える事になりそうだ。</description>
+    </item>
+    
+    <item>
+      <title>DDR4メモリ値下り</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190227_ddr4/</link>
+      <pubDate>Wed, 27 Feb 2019 18:01:52 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190227_ddr4/</guid>
+      <description>昨年来の緩やかな値下り基調が続くDRAM相場。
+春頃には8GB×2枚で1万円を切ってくるかな。 と書いたが、NTT-X Store:特価コーナーの「月末タイムセール」に昨夜登場。3月を待たずに1万円を切ってきた。32GB(16GBx2枚組)も2万円切りの破格値だったので、どちらも早々に完売してしまったようだ。
+AmazonではPATRIOT デスクトップ用16GB(8GBx2枚組)が10,499円 、PATRIOT デスクトップ用32GB(16GBx2枚組)が20,599円 が安値先行中。</description>
+    </item>
+    
+    <item>
+      <title>鉄道ファン図書館</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190225_railfan/</link>
+      <pubDate>Mon, 25 Feb 2019 22:45:28 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190225_railfan/</guid>
+      <description>東洋経済オンラインの記事に目が止まった。
+鉄道好きであれば誰もが手にしたことがあるであろう各種の鉄道雑誌。その中でも人気が高い老舗の月刊『鉄道ファン』が昨年9月1日、バックナンバー公開サービス「鉄道ファン図書館」をネット上に開設した。
+鉄道ファン図書館によると『鉄道ファン図書館』は，株式会社交友社が刊行している月刊『鉄道ファン』の絶版本（バックナンバー）を閲覧できるサービスです．月額388円（税込）で読み放題です．バックナンバーは現在84冊を公開中で，毎月12冊程度追加されていきます． との事だが、 1961年に発刊した月刊『鉄道ファン』はまもなく通巻700号に達し，さらに創刊60周年に向けて歩み続けています．　現在，絶版となった600冊以上のバックナンバーは，愛読者の方々からは大変貴重な鉄道趣味界の文化財であるというお言葉を頂戴することもございます．これらの絶版バックナンバーを読めるインターネットサイトがほしいというご要望はこれまでもありましたが，その電子化費用が多額で，手をつけられませんでした．　けれども「このままでは過去の記事は永遠に読めなくなる」という危機感から，採算度外視でこの読み放題サービス開設を決断いたしました．開設からおよそ5年をかけて絶版バックナンバー全冊を電子化して公開する予定です．　このサイトを後世に遺すことにより，当社が少しでも鉄道趣味界の発展に貢献できれば望外の幸せです．　当サイト運営のためには皆様からの温かいご理解とご助力が必要です．ひと月コーヒー1杯程度の課金に抑えておりますので，ぜひご支援のほどお願い申し上げます． との設立趣旨に激しく共感。</description>
+    </item>
+    
+    <item>
+      <title>はやぶさ2</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190222_hayabusa2/</link>
+      <pubDate>Fri, 22 Feb 2019 23:43:50 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190222_hayabusa2/</guid>
+      <description>「はやぶさ2」タッチダウン成功。</description>
+    </item>
+    
+    <item>
+      <title>PIXELA Smart Box</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190220_pixela/</link>
+      <pubDate>Wed, 20 Feb 2019 23:56:04 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190220_pixela/</guid>
+      <description>Amazonマーケットプレイス出店記念セールで、4K/HDRに対応した「PIXELA Smart BOX(KSTB5043)」が4,980円 というニュース。
+先日、Fire TV Stick 4Kをポチッたばかりだが、Fire OSなAmazon Fire TVでなく、ジェネリックなAndroidのAndroid TVも必要かと。
+CPUはAndroid TVのセットトップボックスとしてはポピュラーなAmlogic S905 (ARM Cotex-A53) Quad-core 2GHzとの事。「クアッドコア1.7GHz」なFire TV Stick 4Kよりも強力だが、通常売価に見合うだけの差があるかどうか、乞うご期待。</description>
+    </item>
+    
+    <item>
+      <title>OVOファームアップ</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190218_ovo/</link>
+      <pubDate>Mon, 18 Feb 2019 23:56:04 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190218_ovo/</guid>
+      <description>12月に書いたUSBバスパワーで動くデジタルスピーカー「OVO」。
+先月のファームウェアアップデート(Release 5)による96kHz/24bitハイレゾ再生対応に続いて、Release 6が公開されて192kHz、24-bitに対応しましたとの事。素晴らしい！
+ブラウザからOVOを設定する機能もいいね。</description>
+    </item>
+    
+    <item>
+      <title>ルンバ691</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190217_roomba691/</link>
+      <pubDate>Sun, 17 Feb 2019 23:39:25 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190217_roomba691/</guid>
+      <description>14日に価格変動モニターKeepaから通常45,870円 のルンバ691が30,716円 に値下りというDMが着弾。
+初号機ルンバ560は7年半、3代目のルンバ871も3年以上が経過。最近はホームベースに戻れずにへたばっている事も多々あり、そろそろバッテリーや駆動系をリフレッシュする必要があるのかな…と思いつつ、次はルンバ800シリーズの後継でコスパ最強の「ルンバe5」か、【Alexa対応】で実売2万円のECOVACS DEEBOT N79Tと思っていたところ。
+ルンバ691商品ページを見てみるとさらに「2,500円引きクーポン」まであって実質28,216円 。WiFi対応でこの値段ならば文句無し。871用のスペアパーツなどもまだあるので、壊れる前に4代目調達を決定。
+早速、初号機ルンバ560のホームベースで充電をさせながらWiFi経由でインターネット接続に成功。ファームウェアアップデートを実施したよ。</description>
+    </item>
+    
+    <item>
+      <title>Fire TV Stick 4K</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190216_firetv4k/</link>
+      <pubDate>Sat, 16 Feb 2019 23:56:04 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190216_firetv4k/</guid>
+      <description>先日ポチッたFire TV Stick 4Kが到着。
+VLC for FireとKodiでLAN経由の動画再生ができる事を確認したが、やっぱり「VLC for Fire」ではサムネイル表示がされず、ファイル名も24文字しか表示されないコンテンツブラウザがイマイチなので、「Kodi」の方がいい感じ。
+昨年調達した328P6AUBREBでBig Buck Bunnyの4K版をWQHDダウンコンバート再生してみたが、30pはさすがの解像感で全く問題無い。60pだと時折引っかかる気がしないでも無いが許容範囲内で合格だ。
+…と思ったのだが、どうやらSDコンテンツでも再生できないファイル がある模様。しかも、エラーになるわけでもなく黙り込んで反応が無くなり、再起動しないと復旧しないという難儀な症状。
+困ったな。</description>
+    </item>
+    
+    <item>
+      <title>DeskMini A300</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190215_deskmini_a300/</link>
+      <pubDate>Fri, 15 Feb 2019 22:45:28 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190215_deskmini_a300/</guid>
+      <description>AMDなベアボーンキット、「DeskMini A300」良さそう。</description>
+    </item>
+    
+    <item>
+      <title>帳簿付け開始</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190214_tax/</link>
+      <pubDate>Thu, 14 Feb 2019 01:19:37 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190214_tax/</guid>
+      <description>昨年は2月21日から始めた帳簿付けを本日より開始。
+まずは会計freee(フリー)にログイン。無料プランからスタータープランに昇格し、会計年度を2017年から2018年に切り替え。
+その間に楽天カード、J-WEST(JCB)カード、福銀アレコレ(VISA)カード、JQ(セゾン)カードなどのカード明細をCSVでダウンロード。月ごとのCSVを簡単に1年分に纏めたあと、会計freee(フリー)にアップロードして、仕訳登録。8割方が自動仕訳で済んでしまうので、融通の利かない「やよいの何とか」と悪戦苦闘していた昔を考えれば天国だな。
+相変わらずセゾンカードの明細が直近3ヶ月分しか取得できない困ったちゃん なのでハガキの請求明細も棚卸ししてチェック。そういえばINTERNET Watchの記事を読んでみたところ、クラウド家計簿サービスのZaimやMoneytree、Kakeibonなどで自動取得しておくこともできそうな印象だ。
+というわけで、取り急ぎ試してみたところ、どちらもAmazonや楽天市場などの取引データまで取り込めるようで驚いた。取引明細自体はクレジットカードからも取り込めてるので、あまり意味が無いかな？と思ったが、家族カードの取引を除外する必要が無かったり、ポイントやギフト券で決済した取引データを取り込めるメリットがある。ただ、どちらもクレジットカード情報を保存していてアカウントIDとパスワードがあれば決済可能なので最悪お買い物されてしまうリスクがあるので、どちらをとるのか難しいところだ。
+NTTグループのKakeibonはNTT-X Storeまで対応していてビックリ。ヨドバシまで対応とはZaimに差を付けたね、と思ったが、ヨドバシはポイント増減履歴だけらしい。なんだそれ。
+最終的に全てのサービスでデータを出力するのは有料会員のみ。やっぱりクラウドサービスをあてにせず、Google Apps Scriptでクレジットカード利用明細を毎月自動で奥さんにメール送信するとか金融データAPIのMT LINKとか参考に、自力でやるべきかな。</description>
+    </item>
+    
+    <item>
+      <title>Fire TV Stick 4K</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190212_firetv4k/</link>
+      <pubDate>Tue, 12 Feb 2019 23:56:04 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190212_firetv4k/</guid>
+      <description>先日書いた「Fire TV Stick」の件。
+実はリモコンが◎らしいのでどれをチョイスすればいいのか悩んでいたのだが、新旧の違いは Alexa対応音声認識リモコン(第2世代)に追加されたボタンを使うことで、Fire TV Stickが対応するテレビ、サウンドバー、AVアンプの電源や音量の操作ができるほか、音声でもこれらの操作が可能になる。 とか、 Alexa対応リモコン第1世代とAlexa対応リモコン第2世代の違いというのは、テレビをコントロールできるかどうかなんですね。有名メーカーのテレビやAV機器がコントロールできることです。 と書いてあるとおり、「Alexa対応」ではなく「赤外線操作TVリモコン機能」という事らしい。
+Fire TV Stick 4Kはまだ下がりそうにないし、4K対応ディスプレイが無い ので4Kでなくてもいい。
+それなら「第1世代リモコン」で充分かと思っていたのだが、4Kでないにせよ昨年調達したWQHD＆HDRな328P6AUBREBの潜在能力を充分活用できていない事を思い出したので、Fire TV Stick 4Kをポチッとな。</description>
+    </item>
+    
+    <item>
+      <title>ST6000DM003</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190204_st6000dm003/</link>
+      <pubDate>Mon, 04 Feb 2019 23:39:25 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190204_st6000dm003/</guid>
+      <description>NTT-X StoreからBarracuda 6TB ST6000DM003が11,980円 (会員割引クーポン適用)、というDMが着弾。
+昨年末にHDDの相場として「TB単価で2,000円前後」と書いたのはアキバのセール価格による最安値だったのだが、SEAGATE ST6000DM003 [6TB SATA600 5400]の実勢価格を見ても「送料込みのTB単価で2,000円切り」はボーダーライン。WD25EZRS死亡で予備が無くなった上に昨年5月に11TBとなったRAIDボリュームも空き容量が10％を切った ところだったのでポチッとな。
+早速、空箱状態のIO DATA:HDC-LA4.0に移設し、GT110b にUSB接続し、syslog出力から&amp;quot;/dev/sdj&amp;quot; で&amp;quot;unknown partition table&amp;quot; となっているのを確認。 root@GT110b:~# tail -f /var/log/syslog 2019-02-04T23:35:06.857604+09:00 GT110b kernel: [1026894.914699] sd 8:0:0:0: [sdj] Spinning up disk&amp;hellip; 2019-02-04T23:35:12.077627+09:00 GT110b kernel: [1026900.134284] sd 8:0:0:0: [sdj] Very big device. Trying to use READ CAPACITY(16). 2019-02-04T23:35:12.077632+09:00 GT110b kernel: [1026900.134650] sd 8:0:0:0: [sdj] 11721045168 512-byte logical blocks: (6.00 TB/5.45 TiB) 2019-02-04T23:35:12.077636+09:00 GT110b kernel: [1026900.134655] sd 8:0:0:0: [sdj] 4096-byte physical blocks 2019-02-04T23:35:12.</description>
+    </item>
+    
+    <item>
+      <title>TL-SG108E</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190202_tl_sg108e/</link>
+      <pubDate>Sat, 02 Feb 2019 23:08:05 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190202_tl_sg108e/</guid>
+      <description>だいぶ前に書いたTP-Linkのイージースマートスイッチ「TL-SG105E」。
+「5ポートじゃなぁ…」と思っていたところ、8ポート版のTL-SG108Eがセール価格になってたので調達。
+NETGEAR GS105Eの実測255g、2017年2月調達のGS108Ev3の実測489gに対して、TL-SG108Eは374gと軽量だが、軽さ以上にACアダプタの小ささが素敵。
+そういえばTP-Linkのイージースマートスイッチでは5ポートでもリンクアグリゲーションに対応しているが、NETGEARのアンマネージプラススイッチでは16ポート以上のモデルのみということだ。
+ともに無償永年保証 を謳う両社だが、NETGEARは購入から30日以内にユーザー登録 しないとダメという落とし穴があったりするので、細々とした制約のないTP-Linkの方が好印象だ。</description>
+    </item>
+    
+    <item>
+      <title>Coinhive続報</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190130_coinhive/</link>
+      <pubDate>Wed, 30 Jan 2019 23:43:50 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190130_coinhive/</guid>
+      <description>昨年6月に書いた「Coinhiveを発端とする家宅捜査」の件。
+全国の10県警によって不正指令電磁的記録供用容疑などで16人が摘発された。 という事だったが、なぜコインハイブ「だけ」が標的に　警察の強引な捜査、受験前に検挙された少年が語る法の未整備への不満によると、なんと未成年だった少年を含んでいるらしい。
+残念ながら田舎県警では「サイバー犯罪対策室」の実情は（課レベルであっても）この程度。
+日本マンガ学会が「静止画ダウンロード違法化」に反対するのももっともだ。
+昨年6月に書いたウェブデザイナーの男性の刑事裁判は進行中で、1月15日第2回公判の証人尋問に高木センセイが登壇され、「刑法犯で処罰されるものではない」との主張を述べられたそうだ。2月18日に最終弁論が行われ「罰金10万円」が求刑された。3月27日に判決予定との事。</description>
+    </item>
+    
+    <item>
+      <title>MIDI 2.0</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190128_midi2/</link>
+      <pubDate>Mon, 28 Jan 2019 23:56:04 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190128_midi2/</guid>
+      <description>MIDI、38年後バージョンアップの「なぜ」？。MIDI 1.0が国際標準規格「IEC63035:2017 ED1」として発行されたのは2017年6月19日だったとは知らなんだ。
+遅ればせながら「MIDI over Bluetooth」や「Web-MIDI」などの拡張が取り込まれるようだ。
+「Think MIDI」で見た最新動向に迫れるのか注目したい…</description>
+    </item>
+    
+    <item>
+      <title>Fire7続報</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190127_fire7/</link>
+      <pubDate>Sun, 27 Jan 2019 23:56:04 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190127_fire7/</guid>
+      <description>11月に調達したFire 7 タブレット。
+鉄板メディアプレーヤーVLCのFire版、VLC for FireでもmicroSDカードからの動画再生の動作確認OK。サムネイル表示がされず、ファイル名も24文字しか表示されないコンテンツブラウザがイマイチだが、再生速度を５％単位で変えられて2倍速でも自然な音声で聴きやすいのは素晴らしい。
+暫く使っていると何となくBluetooth接続音声の遅延 が気になったので調べてみたところ、どうやらFire 7 タブレットのオーディオ・コーデックが遅延の大きいSBC(SubBand Codec)のみ しか実装していないせいでどうにもならない模様。ヘッドホンで聴くのなら大丈夫だが、モノラル＆背面のスピーカーだと聴こえづらいので、このままでは車載で子供用ビデオコンソールにするのは難しい事が判明…
+一方でLAN(SMB/UPnP)経由 の動画再生も確認できた。VLC for Android と違い「Windows ネットワーク (SMB)」の選択で見えないルーター超えのサーバに対してIPアドレス指定でアクセスできない のだが、サーバ側セグメントのAPに接続して「お気に入り」に登録しておけばIPアドレスを覚えておいてくれるらしく、元のセグメントに戻してもルーター超えで動画再生できた。
+そんなわけで「Fire 7 タブレット」から「Amazon Fire TV Stick」に軸足を移していたところ、千円値下げのお知らせが入ってきた。突発タイムセールかな？と思ったらFire TV StickにAlexaやテレビ操作対応リモコン付き新モデルが出たというので？？？となったがAlexa対応音声認識リモコンの世代が上がった新パッケージという事らしい。表示デバイスが無いので4Kでなくてもいいかと思っていたのだが、実はリモコンが◎らしいので、2Kでもまたどちらを選ぶか悩ましい話になってきた…</description>
+    </item>
+    
+    <item>
+      <title>OM-D E-M1X</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190125_omd_em1x/</link>
+      <pubDate>Fri, 25 Jan 2019 23:43:50 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190125_omd_em1x/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ダウンロード違法化議論</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190124_downloadingillegalize/</link>
+      <pubDate>Thu, 24 Jan 2019 23:43:50 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190124_downloadingillegalize/</guid>
+      <description>ダウンロード違法化の対象範囲拡大に対する反対声明
+【参照】 ●ITmedia NEWS https://www.itmedia.co.jp/news/ ┣「ブロッキング法制化」反対派不在の報告会　「中間まとまらない」座長メモも公開 2018/10/30 ┗「静止画ダウンロード違法化」に反対　日本マンガ学会、「研究・創作を阻害する最悪の結果招く」 2019/01/24 ●日本マンガ学会 https://www.jsscc.net/ ┗ダウンロード違法化の対象範囲拡大に対する反対声明 2019/01/23 ●文化庁 http://www.bunka.go.jp/ ┣法制・基本問題小委員会 ┗ダウンロード違法化の対象範囲の見直しに関する論点整理（案）[資料３] ●Wikipedia https://ja.wikipedia.org/wiki/ </description>
+    </item>
+    
+    <item>
+      <title>パワポマンメーカー</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190123_pawapoman/</link>
+      <pubDate>Wed, 23 Jan 2019 23:43:50 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190123_pawapoman/</guid>
+      <description>提供終了したOfficeのクリップアートの豆人形を再現できる「パワポマンメーカー」という朗報。
+Microsoft、Officeの「クリップアート」提供を終了から4年。取り敢えず、懐かしい。
+Googleなどのイメージ検索や「いらすとや」に押されて出番は少なくなったとは言え、やはりベクタ形式な画像が少ないのは不便なので、WMFをSVGに変換して持っておきたいところだ。</description>
+    </item>
+    
+    <item>
+      <title>カエルに学ぶ</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190122_frog/</link>
+      <pubDate>Tue, 22 Jan 2019 23:19:37 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190122_frog/</guid>
+      <description>カエルの合唱をIoTに応用、通信安定に期待という記事。
+続報：研究者に聞くを含めて興味深く読んだ。
+カエルの合唱の法則性から数理モデルを作成し、無線センサーネットワークに応用することで、IoT端末が自立的に送信契機を調整して、送受信効率や電力消費を改善できる見込みがあるそうだ。
+なるほど、言われてみれば確かに似てるねぇ。</description>
+    </item>
+    
+    <item>
+      <title>CCCの情報提供問題</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190121_ccc/</link>
+      <pubDate>Mon, 21 Jan 2019 22:56:26 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190121_ccc/</guid>
+      <description>「Tカード情報、令状なく提供」報道の話。
+前田なにがしが言うように個人情報保護法では「法令に基づく場合は本人の同意を得ずに情報提供できる」としていて、犯罪捜査や児童虐待に係る通告などを踏まえると「当局から正式に照会されれば出さざるを得ない」と思うので、「Ｔ会員規約」に当局への情報提供を明記していなかったとしても騒ぐような話ではないと思う。やみくもに「令状なく提供」というのは確かに「不誠実な印象」だが「裁判所に令状を出さない判断をする」厳格さがあるとも思えないので、手間と時間だけの話かなと。
+そもそもCCCと言えば2014年10月に書いたように「個人情報の共同利用」 を謳う会社なので、個人的には誠実さを期待する方が間違いじゃないかと思う。
+なお、2014年10月に書いた件について遅ればせながらフォローすると、2017年の改正個人情報保護法で整理された「個人データの共同利用」を踏まえて※「全ての提供先に対して一括で停止」をされた場合、その後にポイントプログラム等へ参加する企業も含め、全ての提供先への個人情報提供が停止されます。と、ちょっとだけ改善された。…が、個人情報提供の対象企業は2014年10月20日時点で80社から2018年12月5日時点で146社に増えている のでご注意を。
+【参照】 ●ITmedia NEWS http://www.itmedia.co.jp/news/ ┣ヤフーがプライバシーポリシー改定　「Tポイント」ユーザーのWeb閲覧履歴、CCCに提供 2014/05/22 ┣CCC、T会員規約を改正　個人情報「共同利用」から「第三者提供」に　オプトアウトも可能 2014/08/19 ┣「T会員」個人情報の第三者提供停止を受け付け　CCC、規約変更に伴い 2014/10/29 ┣「Tカード」アクティブ会員6000万人突破　日本人の2人に1人が利用 2016/09/12 ┣ヤマト運輸、Tポイント導入　2018年4月から 2017/12/25 ┣「T会員」6500万人の購買データ使ってサービス企画　CCC「DATA DEMOCRACY DAYS」 2018/01/24 ┣「個人情報」の意味、知ってますか？　Tカード、Suica、マイナンバーで考える「個人情報の危うさ」 2018/01/31 ┣CCC、「Tカード情報、令状なく提供」報道にコメント　「今後、会員規約に明記する」 2019/01/21 ┗「Tカード情報、令状なく提供」報道が波紋　「Ponta」「dポイント」の対応状況は？ 2019/01/21 ●ねとらぼ http://nlab.itmedia.co.jp/nl/ ┣ヤフーとCCCがポイントとIDを統一　Yahoo!ポイントがTポイントに 2012/06/19 ┣Tカード情報を令状なしで捜査当局に提供　CCC「社会貢献のため」 2019/01/21 ┗Tカード、「個人情報を令状なしで警察に提供」に批判　個人情報保護委員会に問題ないか聞いてみた 2019/01/24 ●Yahoo!ニュース https://news.yahoo.co.jp/ ┗ポイントカードの利用履歴までも　令状なしで捜査当局に提供される様々な個人情報(前田恒彦) 2019/01/21 ●東洋経済オンライン https://toyokeizai.net/ ┗｢Tカード情報提出｣CCCに欠けている意識 2019/01/22 ●個人情報保護委員会 https://www.ppc.go.jp/ ┗法令･ガイドライン等 ●個人情報保護士会 http://www.joho-hogo.jp/ ●カルチュア・コンビニエンス・クラブ株式会社 https://www.ccc.co.jp/ ┣T会員規約 ┣T会員規約の解説 2014/08/14 ┣【届出書による個人情報の開示等の求めに関する手続きに関して】 2016/04/01 ┣個人情報の提供先を教えてください（2018年12月5日更新） ┗個人情報保護方針を改訂いたしました 2018/01/21 ●ハフポスト https://www.</description>
+    </item>
+    
+    <item>
+      <title>OVOファームアップ</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190120_ovo/</link>
+      <pubDate>Sun, 20 Jan 2019 23:56:04 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190120_ovo/</guid>
+      <description>12月に書いたUSBバスパワーで動くデジタルスピーカー「OVO」。
+ファームウェアのアップデートで96kHz/24bitハイレゾ再生対応との事。
+192kHz/24bit対応はいいが、アルミ/真鍮削り出しの「OVO Premium」は要らんな…</description>
+    </item>
+    
+    <item>
+      <title>dynabook30周年</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190118_dynabook/</link>
+      <pubDate>Fri, 18 Jan 2019 22:46:56 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190118_dynabook/</guid>
+      <description>昨年6月に書いた東芝のPC事業売却案件。
+10月にシャープグループ傘下となり、12月には新社名を「Dynabook株式会社」として&amp;quot;Sharp&amp;quot;でも&amp;quot;Mebius&amp;quot;でもなく&amp;quot;Dynabook&amp;quot;のブランドを全面に打ち出す事があきらかに。
+CESの直前に存在が明らかにされていた30周年記念のdynabookもDynabookの13型 Gシリーズとして発表された。
+あれっ、アキュポイントはどこに？？</description>
+    </item>
+    
+    <item>
+      <title>WD25EZRS死亡</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190116_wd25ezrs/</link>
+      <pubDate>Wed, 16 Jan 2019 23:47:52 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190116_wd25ezrs/</guid>
+      <description>昨年のWD25EZRX再生品の死亡からちょうど1年。2011年末調達のWD25EZRSがご臨終。
+ミラーリングペアの2011年7月調達のWD25EZRXもボチボチ寿命かな…というわけで、BRW500に喚装できずに浮いていた2014年調達のWD30EURXに待避。</description>
+    </item>
+    
+    <item>
+      <title>マウスの憂鬱</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190115_mouse/</link>
+      <pubDate>Tue, 15 Jan 2019 12:44:37 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190115_mouse/</guid>
+      <description>日々愛用しているThinkPad Bluetooth レーザーマウス。
+ThinkPad T460sとのセット価格100円で文句言うな！というわけでも無いと思うが、左クリックの反応が悪くて昨年2月末に買替えたのだが、結局2.4GHz帯ならではの干渉による反応の悪さに加えて、UbuntuとWindowsで切り替える都度ペアリングしなおさなければらないという難儀が耐えがたくなってきたので、昨年末にワイヤードなマウスを物色。
+まず、お値段お手頃なマイクロソフトのCompact Optical Mouse 500を調達。まず真っ先に小ささに驚いたが、使ってみるとやっぱり小さすぎだ。解像度(800dpi)も常用のThinkPad Bluetooth レーザーマウスと違いすぎた。
+次に、レノボダイレクトで756円 だったThinkPad USBレーザーマウスを調達。スペックはお馴染みのThinkPad Bluetooth レーザーマウスと同じだが、使ってみると軽すぎて手を離した瞬間にケーブルの張力でカーソルが動いてしまうという罠にハマった。</description>
+    </item>
+    
+    <item>
+      <title>ハブ用マグネット</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190113_magnet/</link>
+      <pubDate>Sun, 13 Jan 2019 23:08:05 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190113_magnet/</guid>
+      <description>昨日調達したスイッチングハブ用マグネット。
+オーム電機のタップ用マグネット [HS-A0166]で固定できるのは500g程度で、16ポートスイッチには文字通り力不足 なのがわかった。
+スイッチングハブに引っ掛けるネジは無いものの、たまたまダイソーで調達しておいた「超強力マグネット 13mm 4個」のストックに目が留まったので試してみたところ、ゴム足部分の凹みにジャストフィット。ネジ止めする必要も無く机の横にガッチリ専用品と言ってもいいドンピシャ具合。
+ネオジウム磁石 10㎜×2㎜ (10個セット)あたりでも良さそうだ。</description>
+    </item>
+    
+    <item>
+      <title>ハブ用マグネット</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190112_magnet/</link>
+      <pubDate>Sat, 12 Jan 2019 23:08:05 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190112_magnet/</guid>
+      <description>毎度お馴染みAmazon.co.jpのオススメ。
+NETGEARのスイッチングハブにとNETGEAR用マグネット3個セットをオススメされるのだが、グリーンハウスのくせに価格がまさかの2,072円 。TP-Linkの5ポートスイッチが買えちゃうよ。
+マジメに調べてみたところオーム電機のタップ用マグネット [HS-A0166]が良さそう。ヨドバシ.com扱いなら実質250円なので早速調達。レビューの評価通りちょっとネジが長すぎるので2mmほどヤスリで削ってやったところ、いい塩梅に。
+…見えたのだが、テーブルタップ用なので16ポートスイッチの重さ(0.84kg)はオーバースペックらしい。ケーブル抜き差し時には片手で押さえる必要があるのに加えて、時間経過と共にずり落ちてしまう。8ポート(0.5kg)くらいなら大丈夫かな。</description>
+    </item>
+    
+    <item>
+      <title>第3世代Ryzen</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190110_ryzen/</link>
+      <pubDate>Thu, 10 Jan 2019 23:25:05 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190110_ryzen/</guid>
+      <description>昨年4月に第2世代(Pinnacle Ridge)となったAMDのRyzen。
+2019年半ばにプロセスルールを12nm→7nmとした「ZEN 2」のデスクトップPC向けプロセッサの発売を発表。
+モデルナンバーは3000番台で、対抗製品と同等性能で消費電力は30%低い、ということだ。
+ひゃっは～。</description>
+    </item>
+    
+    <item>
+      <title>CES2019開幕</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190109_ces/</link>
+      <pubDate>Wed, 09 Jan 2019 22:05:03 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190109_ces/</guid>
+      <description>今年もCES 2019が開幕。
+さっそく10月にローンチした「第9世代Coreプロセッサ」の6つの追加SKUが発表。Coffee Lakeな「Coffee Lake-S Refresh」との事。
+4コア/4スレッドなCore i3-9350KFはベースクロック4GHzでTDP:91Wなのに対して、2.9GHzながら6コア/6スレッドでTDP:65WなCore i5-9400Fというのも面白い設定。どっちが人気になるのかなぁ。</description>
+    </item>
+    
+    <item>
+      <title>OMRON HeartGuide</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190107_omron_heartguide/</link>
+      <pubDate>Mon, 07 Jan 2019 23:18:48 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190107_omron_heartguide/</guid>
+      <description>CES2018で発表されたウェアラブル血圧計。
+今年のCESで499ドルで発売という発表があった。
+待ちきれずに…というよりも予算の都合上見限って、9,000円を切った手首式血圧計 HEM-6323Tを昨年調達したのは正解だった事に。</description>
+    </item>
+    
+    <item>
+      <title>NHKラジオニュース</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190105_alexa_news/</link>
+      <pubDate>Sat, 05 Jan 2019 23:02:33 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190105_alexa_news/</guid>
+      <description>12月に調達したAmazon Echo Spot。
+天気予報などスクリーンで情報が見られるのは良いのだが、Alexaスキル:NHKニュースの素材が「ラジオ」でなく「テレビ」になってしまったので、ちゃんと目視しないと内容が理解できないようになってしまい、残念な結果に。
+…と思って調べたところ「ご同輩」は少なくないようで、Alexaスキル:NHKラジオニュースを有効にすれば良い、とわかり一件落着。
+ちなみにAlexaスキル:NHKラジオニュースであっても単に「ラジオ第1」のオンエアを時間指定で録音しているだけらしく、大相撲開催期間中の夕方４～６時はニュースの代わりに大相撲中継となってしまう事故が多い(笑)。</description>
+    </item>
+    
+    <item>
+      <title>待機電力</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190102_denki/</link>
+      <pubDate>Wed, 02 Jan 2019 23:59:59 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190102_denki/</guid>
+      <description>帰省中なので当然誰もいない我が家。
+とは言え、冷蔵庫やサーバーやレコーダー、ルンバなどの電気製品は稼動しているわけなので、消費電力というかある意味で待機電力が発生しているはず。
+と思ってauでんきアプリをチェックしてみたところ、12/31～1/4の不在期間はほぼ282円/10.30KWで安定。
+7月28日の279円/10.50KWと比べると電力単価が上がったようだ。</description>
+    </item>
+    
+    <item>
+      <title>疑心暗鬼を生じる</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190101_huawei/</link>
+      <pubDate>Tue, 01 Jan 2019 22:46:56 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190101_huawei/</guid>
+      <description>米連邦政府でのZTEおよびHuawei製品使用禁止令に端を発したHuawei排除の動き。
+そもそもは「安全保障上のリスクがある」とした2012年に米下院がHuaweiとZTEの排除を求める報告書が発端だと思うが、情報セキュリティ上の疑念ならばHuaweiや中国製の製品に限らず、ロシア製だってそうだ。そもそもアメリカ国家安全保障局がPRISM (監視プログラム)を運用していたのだから、今更なにをか言わんやだ。
+…と半ば静観していたのだが、孟晩舟CFOが逮捕され、動きが慌ただしくなってきた。&amp;quot;いかなる組織や公民も国の情報業務に協力しなければならない&amp;quot;とされる「中華人民共和国国家情報法」が2017年に公布、施行された経緯がこれらの疑心暗鬼を生んでいるのは間違いない。
+それにしても「与党関係者の話」というだけで一切の根拠も無く分解したら“余計なもの”が見つかったと報じる厚顔無恥な報道機関にもあきれるな。</description>
     </item>
     
   </channel>

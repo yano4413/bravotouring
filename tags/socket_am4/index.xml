@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Socket_am4 on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/socket_am4/</link>
+    <description>Recent content in Socket_am4 on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Thu, 10 Jan 2019 23:25:05 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/socket_am4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第3世代Ryzen</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190110_ryzen/</link>
+      <pubDate>Thu, 10 Jan 2019 23:25:05 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190110_ryzen/</guid>
+      <description>昨年4月に第2世代(Pinnacle Ridge)となったAMDのRyzen。
+2019年半ばにプロセスルールを12nm→7nmとした「ZEN 2」のデスクトップPC向けプロセッサの発売を発表。
+モデルナンバーは3000番台で、対抗製品と同等性能で消費電力は30%低い、ということだ。
+ひゃっは～。</description>
+    </item>
+    
+  </channel>
+</rss>

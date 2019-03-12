@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iot on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/iot/</link>
+    <description>Recent content in Iot on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 22 Jan 2019 23:19:37 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>カエルに学ぶ</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190122_frog/</link>
+      <pubDate>Tue, 22 Jan 2019 23:19:37 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190122_frog/</guid>
+      <description>カエルの合唱をIoTに応用、通信安定に期待という記事。
+続報：研究者に聞くを含めて興味深く読んだ。
+カエルの合唱の法則性から数理モデルを作成し、無線センサーネットワークに応用することで、IoT端末が自立的に送信契機を調整して、送受信効率や電力消費を改善できる見込みがあるそうだ。
+なるほど、言われてみれば確かに似てるねぇ。</description>
+    </item>
+    
+  </channel>
+</rss>

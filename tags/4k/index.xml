@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4k on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/4k/</link>
+    <description>Recent content in 4k on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 20 Feb 2019 23:56:04 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/4k/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PIXELA Smart Box</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190220_pixela/</link>
+      <pubDate>Wed, 20 Feb 2019 23:56:04 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190220_pixela/</guid>
+      <description>Amazonマーケットプレイス出店記念セールで、4K/HDRに対応した「PIXELA Smart BOX(KSTB5043)」が4,980円 というニュース。
+先日、Fire TV Stick 4Kをポチッたばかりだが、Fire OSなAmazon Fire TVでなく、ジェネリックなAndroidのAndroid TVも必要かと。
+CPUはAndroid TVのセットトップボックスとしてはポピュラーなAmlogic S905 (ARM Cotex-A53) Quad-core 2GHzとの事。「クアッドコア1.7GHz」なFire TV Stick 4Kよりも強力だが、通常売価に見合うだけの差があるかどうか、乞うご期待。</description>
+    </item>
+    
+    <item>
+      <title>Fire TV Stick 4K</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190216_firetv4k/</link>
+      <pubDate>Sat, 16 Feb 2019 23:56:04 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190216_firetv4k/</guid>
+      <description>先日ポチッたFire TV Stick 4Kが到着。
+VLC for FireとKodiでLAN経由の動画再生ができる事を確認したが、やっぱり「VLC for Fire」ではサムネイル表示がされず、ファイル名も24文字しか表示されないコンテンツブラウザがイマイチなので、「Kodi」の方がいい感じ。
+昨年調達した328P6AUBREBでBig Buck Bunnyの4K版をWQHDダウンコンバート再生してみたが、30pはさすがの解像感で全く問題無い。60pだと時折引っかかる気がしないでも無いが許容範囲内で合格だ。
+…と思ったのだが、どうやらSDコンテンツでも再生できないファイル がある模様。しかも、エラーになるわけでもなく黙り込んで反応が無くなり、再起動しないと復旧しないという難儀な症状。
+困ったな。</description>
+    </item>
+    
+    <item>
+      <title>Fire TV Stick 4K</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190212_firetv4k/</link>
+      <pubDate>Tue, 12 Feb 2019 23:56:04 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190212_firetv4k/</guid>
+      <description>先日書いた「Fire TV Stick」の件。
+実はリモコンが◎らしいのでどれをチョイスすればいいのか悩んでいたのだが、新旧の違いは Alexa対応音声認識リモコン(第2世代)に追加されたボタンを使うことで、Fire TV Stickが対応するテレビ、サウンドバー、AVアンプの電源や音量の操作ができるほか、音声でもこれらの操作が可能になる。 とか、 Alexa対応リモコン第1世代とAlexa対応リモコン第2世代の違いというのは、テレビをコントロールできるかどうかなんですね。有名メーカーのテレビやAV機器がコントロールできることです。 と書いてあるとおり、「Alexa対応」ではなく「赤外線操作TVリモコン機能」という事らしい。
+Fire TV Stick 4Kはまだ下がりそうにないし、4K対応ディスプレイが無い ので4Kでなくてもいい。
+それなら「第1世代リモコン」で充分かと思っていたのだが、4Kでないにせよ昨年調達したWQHD＆HDRな328P6AUBREBの潜在能力を充分活用できていない事を思い出したので、Fire TV Stick 4Kをポチッとな。</description>
+    </item>
+    
+  </channel>
+</rss>

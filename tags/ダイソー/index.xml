@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ダイソー on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC/</link>
+    <description>Recent content in ダイソー on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 13 Jan 2019 23:08:05 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/%E3%83%80%E3%82%A4%E3%82%BD%E3%83%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ハブ用マグネット</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190113_magnet/</link>
+      <pubDate>Sun, 13 Jan 2019 23:08:05 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190113_magnet/</guid>
+      <description>昨日調達したスイッチングハブ用マグネット。
+オーム電機のタップ用マグネット [HS-A0166]で固定できるのは500g程度で、16ポートスイッチには文字通り力不足 なのがわかった。
+スイッチングハブに引っ掛けるネジは無いものの、たまたまダイソーで調達しておいた「超強力マグネット 13mm 4個」のストックに目が留まったので試してみたところ、ゴム足部分の凹みにジャストフィット。ネジ止めする必要も無く机の横にガッチリ専用品と言ってもいいドンピシャ具合。
+ネオジウム磁石 10㎜×2㎜ (10個セット)あたりでも良さそうだ。</description>
+    </item>
+    
+  </channel>
+</rss>

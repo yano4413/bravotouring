@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Echospot on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/echospot/</link>
+    <description>Recent content in Echospot on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 05 Jan 2019 23:02:33 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/echospot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NHKラジオニュース</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190105_alexa_news/</link>
+      <pubDate>Sat, 05 Jan 2019 23:02:33 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190105_alexa_news/</guid>
+      <description>12月に調達したAmazon Echo Spot。
+天気予報などスクリーンで情報が見られるのは良いのだが、Alexaスキル:NHKニュースの素材が「ラジオ」でなく「テレビ」になってしまったので、ちゃんと目視しないと内容が理解できないようになってしまい、残念な結果に。
+…と思って調べたところ「ご同輩」は少なくないようで、Alexaスキル:NHKラジオニュースを有効にすれば良い、とわかり一件落着。
+ちなみにAlexaスキル:NHKラジオニュースであっても単に「ラジオ第1」のオンエアを時間指定で録音しているだけらしく、大相撲開催期間中の夕方４～６時はニュースの代わりに大相撲中継となってしまう事故が多い(笑)。</description>
+    </item>
+    
+  </channel>
+</rss>

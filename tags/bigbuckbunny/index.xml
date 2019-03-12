@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bigbuckbunny on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/bigbuckbunny/</link>
+    <description>Recent content in Bigbuckbunny on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 16 Feb 2019 23:56:04 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/bigbuckbunny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fire TV Stick 4K</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190216_firetv4k/</link>
+      <pubDate>Sat, 16 Feb 2019 23:56:04 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190216_firetv4k/</guid>
+      <description>先日ポチッたFire TV Stick 4Kが到着。
+VLC for FireとKodiでLAN経由の動画再生ができる事を確認したが、やっぱり「VLC for Fire」ではサムネイル表示がされず、ファイル名も24文字しか表示されないコンテンツブラウザがイマイチなので、「Kodi」の方がいい感じ。
+昨年調達した328P6AUBREBでBig Buck Bunnyの4K版をWQHDダウンコンバート再生してみたが、30pはさすがの解像感で全く問題無い。60pだと時折引っかかる気がしないでも無いが許容範囲内で合格だ。
+…と思ったのだが、どうやらSDコンテンツでも再生できないファイル がある模様。しかも、エラーになるわけでもなく黙り込んで反応が無くなり、再起動しないと復旧しないという難儀な症状。
+困ったな。</description>
+    </item>
+    
+  </channel>
+</rss>

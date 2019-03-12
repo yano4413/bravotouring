@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Auでんき on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/au%E3%81%A7%E3%82%93%E3%81%8D/</link>
+    <description>Recent content in Auでんき on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 02 Jan 2019 23:59:59 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/au%E3%81%A7%E3%82%93%E3%81%8D/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>待機電力</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190102_denki/</link>
+      <pubDate>Wed, 02 Jan 2019 23:59:59 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190102_denki/</guid>
+      <description>帰省中なので当然誰もいない我が家。
+とは言え、冷蔵庫やサーバーやレコーダー、ルンバなどの電気製品は稼動しているわけなので、消費電力というかある意味で待機電力が発生しているはず。
+と思ってauでんきアプリをチェックしてみたところ、12/31～1/4の不在期間はほぼ282円/10.30KWで安定。
+7月28日の279円/10.50KWと比べると電力単価が上がったようだ。</description>
+    </item>
+    
+  </channel>
+</rss>

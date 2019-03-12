@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sg108e on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/sg108e/</link>
+    <description>Recent content in Sg108e on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 02 Feb 2019 23:08:05 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/sg108e/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TL-SG108E</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190202_tl_sg108e/</link>
+      <pubDate>Sat, 02 Feb 2019 23:08:05 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190202_tl_sg108e/</guid>
+      <description>だいぶ前に書いたTP-Linkのイージースマートスイッチ「TL-SG105E」。
+「5ポートじゃなぁ…」と思っていたところ、8ポート版のTL-SG108Eがセール価格になってたので調達。
+NETGEAR GS105Eの実測255g、2017年2月調達のGS108Ev3の実測489gに対して、TL-SG108Eは374gと軽量だが、軽さ以上にACアダプタの小ささが素敵。
+そういえばTP-Linkのイージースマートスイッチでは5ポートでもリンクアグリゲーションに対応しているが、NETGEARのアンマネージプラススイッチでは16ポート以上のモデルのみということだ。
+ともに無償永年保証 を謳う両社だが、NETGEARは購入から30日以内にユーザー登録 しないとダメという落とし穴があったりするので、細々とした制約のないTP-Linkの方が好印象だ。</description>
+    </item>
+    
+  </channel>
+</rss>

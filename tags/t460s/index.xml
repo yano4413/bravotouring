@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T460s on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/t460s/</link>
+    <description>Recent content in T460s on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 15 Jan 2019 12:44:37 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/t460s/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>マウスの憂鬱</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190115_mouse/</link>
+      <pubDate>Tue, 15 Jan 2019 12:44:37 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190115_mouse/</guid>
+      <description>日々愛用しているThinkPad Bluetooth レーザーマウス。
+ThinkPad T460sとのセット価格100円で文句言うな！というわけでも無いと思うが、左クリックの反応が悪くて昨年2月末に買替えたのだが、結局2.4GHz帯ならではの干渉による反応の悪さに加えて、UbuntuとWindowsで切り替える都度ペアリングしなおさなければらないという難儀が耐えがたくなってきたので、昨年末にワイヤードなマウスを物色。
+まず、お値段お手頃なマイクロソフトのCompact Optical Mouse 500を調達。まず真っ先に小ささに驚いたが、使ってみるとやっぱり小さすぎだ。解像度(800dpi)も常用のThinkPad Bluetooth レーザーマウスと違いすぎた。
+次に、レノボダイレクトで756円 だったThinkPad USBレーザーマウスを調達。スペックはお馴染みのThinkPad Bluetooth レーザーマウスと同じだが、使ってみると軽すぎて手を離した瞬間にケーブルの張力でカーソルが動いてしまうという罠にハマった。</description>
+    </item>
+    
+  </channel>
+</rss>

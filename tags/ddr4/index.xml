@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ddr4 on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/ddr4/</link>
+    <description>Recent content in Ddr4 on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 27 Feb 2019 18:01:52 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/ddr4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DDR4メモリ値下り</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190227_ddr4/</link>
+      <pubDate>Wed, 27 Feb 2019 18:01:52 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190227_ddr4/</guid>
+      <description>昨年来の緩やかな値下り基調が続くDRAM相場。
+春頃には8GB×2枚で1万円を切ってくるかな。 と書いたが、NTT-X Store:特価コーナーの「月末タイムセール」に昨夜登場。3月を待たずに1万円を切ってきた。32GB(16GBx2枚組)も2万円切りの破格値だったので、どちらも早々に完売してしまったようだ。
+AmazonではPATRIOT デスクトップ用16GB(8GBx2枚組)が10,499円 、PATRIOT デスクトップ用32GB(16GBx2枚組)が20,599円 が安値先行中。</description>
+    </item>
+    
+  </channel>
+</rss>

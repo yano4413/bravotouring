@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaxa on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/jaxa/</link>
+    <description>Recent content in Jaxa on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sat, 02 Mar 2019 23:43:50 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/jaxa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WINDS運用終了</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190302_winds/</link>
+      <pubDate>Sat, 02 Mar 2019 23:43:50 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190302_winds/</guid>
+      <description>超高速インターネット衛星「きずな」運用終了というニュース。
+2008年2月23日にH-IIAロケット14号機によって打ち上げられた後、設計寿命の5年を超える11年の永きに渡って運用された事になる。
+仕事上でも縁があった事もあり、&amp;quot;きずな&amp;quot;より&amp;quot;WINDS&amp;quot;の方が馴染み深いのだが、何はともあれ無事これ名馬、お疲れ様でした。
+53バイト固定長パケットを扱うATMプロトコルを採用したという事もあって何かにつけて気になっていたのだが、これで実運用のATM網がまた一つ消える事になりそうだ。</description>
+    </item>
+    
+    <item>
+      <title>はやぶさ2</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190222_hayabusa2/</link>
+      <pubDate>Fri, 22 Feb 2019 23:43:50 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190222_hayabusa2/</guid>
+      <description>「はやぶさ2」タッチダウン成功。</description>
+    </item>
+    
+  </channel>
+</rss>

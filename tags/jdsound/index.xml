@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jdsound on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/jdsound/</link>
+    <description>Recent content in Jdsound on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 18 Feb 2019 23:56:04 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/jdsound/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OVOファームアップ</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190218_ovo/</link>
+      <pubDate>Mon, 18 Feb 2019 23:56:04 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190218_ovo/</guid>
+      <description>12月に書いたUSBバスパワーで動くデジタルスピーカー「OVO」。
+先月のファームウェアアップデート(Release 5)による96kHz/24bitハイレゾ再生対応に続いて、Release 6が公開されて192kHz、24-bitに対応しましたとの事。素晴らしい！
+ブラウザからOVOを設定する機能もいいね。</description>
+    </item>
+    
+    <item>
+      <title>OVOファームアップ</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190120_ovo/</link>
+      <pubDate>Sun, 20 Jan 2019 23:56:04 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190120_ovo/</guid>
+      <description>12月に書いたUSBバスパワーで動くデジタルスピーカー「OVO」。
+ファームウェアのアップデートで96kHz/24bitハイレゾ再生対応との事。
+192kHz/24bit対応はいいが、アルミ/真鍮削り出しの「OVO Premium」は要らんな…</description>
+    </item>
+    
+  </channel>
+</rss>

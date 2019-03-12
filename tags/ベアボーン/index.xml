@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ベアボーン on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/%E3%83%99%E3%82%A2%E3%83%9C%E3%83%BC%E3%83%B3/</link>
+    <description>Recent content in ベアボーン on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 15 Feb 2019 22:45:28 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/%E3%83%99%E3%82%A2%E3%83%9C%E3%83%BC%E3%83%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeskMini A300</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190215_deskmini_a300/</link>
+      <pubDate>Fri, 15 Feb 2019 22:45:28 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190215_deskmini_a300/</guid>
+      <description>AMDなベアボーンキット、「DeskMini A300」良さそう。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hdd調達 on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/hdd%E8%AA%BF%E9%81%94/</link>
+    <description>Recent content in Hdd調達 on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 04 Feb 2019 23:39:25 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/hdd%E8%AA%BF%E9%81%94/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ST6000DM003</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190204_st6000dm003/</link>
+      <pubDate>Mon, 04 Feb 2019 23:39:25 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190204_st6000dm003/</guid>
+      <description>NTT-X StoreからBarracuda 6TB ST6000DM003が11,980円 (会員割引クーポン適用)、というDMが着弾。
+昨年末にHDDの相場として「TB単価で2,000円前後」と書いたのはアキバのセール価格による最安値だったのだが、SEAGATE ST6000DM003 [6TB SATA600 5400]の実勢価格を見ても「送料込みのTB単価で2,000円切り」はボーダーライン。WD25EZRS死亡で予備が無くなった上に昨年5月に11TBとなったRAIDボリュームも空き容量が10％を切った ところだったのでポチッとな。
+早速、空箱状態のIO DATA:HDC-LA4.0に移設し、GT110b にUSB接続し、syslog出力から&amp;quot;/dev/sdj&amp;quot; で&amp;quot;unknown partition table&amp;quot; となっているのを確認。 root@GT110b:~# tail -f /var/log/syslog 2019-02-04T23:35:06.857604+09:00 GT110b kernel: [1026894.914699] sd 8:0:0:0: [sdj] Spinning up disk&amp;hellip; 2019-02-04T23:35:12.077627+09:00 GT110b kernel: [1026900.134284] sd 8:0:0:0: [sdj] Very big device. Trying to use READ CAPACITY(16). 2019-02-04T23:35:12.077632+09:00 GT110b kernel: [1026900.134650] sd 8:0:0:0: [sdj] 11721045168 512-byte logical blocks: (6.00 TB/5.45 TiB) 2019-02-04T23:35:12.077636+09:00 GT110b kernel: [1026900.134655] sd 8:0:0:0: [sdj] 4096-byte physical blocks 2019-02-04T23:35:12.</description>
+    </item>
+    
+  </channel>
+</rss>

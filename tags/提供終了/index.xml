@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>提供終了 on New bravotoring Site</title>
+    <link>http://yano4413.github.io/bravotouring/tags/%E6%8F%90%E4%BE%9B%E7%B5%82%E4%BA%86/</link>
+    <description>Recent content in 提供終了 on New bravotoring Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Wed, 23 Jan 2019 23:43:50 +0900</lastBuildDate>
+    
+	<atom:link href="http://yano4413.github.io/bravotouring/tags/%E6%8F%90%E4%BE%9B%E7%B5%82%E4%BA%86/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>パワポマンメーカー</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190123_pawapoman/</link>
+      <pubDate>Wed, 23 Jan 2019 23:43:50 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190123_pawapoman/</guid>
+      <description>提供終了したOfficeのクリップアートの豆人形を再現できる「パワポマンメーカー」という朗報。
+Microsoft、Officeの「クリップアート」提供を終了から4年。取り敢えず、懐かしい。
+Googleなどのイメージ検索や「いらすとや」に押されて出番は少なくなったとは言え、やはりベクタ形式な画像が少ないのは不便なので、WMFをSVGに変換して持っておきたいところだ。</description>
+    </item>
+    
+  </channel>
+</rss>

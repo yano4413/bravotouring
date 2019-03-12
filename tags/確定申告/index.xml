@@ -17,10 +17,10 @@
       <pubDate>Sat, 09 Mar 2019 06:58:12 +0900</pubDate>
       
       <guid>http://yano4413.github.io/bravotouring/post/20190309_etax/</guid>
-      <description>今年は [2月14日](post/20190214_tax) から始めた帳簿付け。
+      <description>今年は [2月14日](20190214_tax) から始めた帳簿付け。
 3日間で各口座明細のダウンロードと整理、 [会計freee(フリー)](https://www.freee.co.jp/) への登録まで完了。
 現金出納の明細整理とか、固定資産の減価償却計算などを行い、 [所得控除](https://www.freee.co.jp/kb/kb-kakuteishinkoku/income-deduction/) の内容を精査。
-今年は [12月にマイナンバーカードを発行した](post/20181212_mynumber) ので、電子証明書を再登録しないとな～と思って調べてみたところ、やっぱり [マイナンバーカードを取得された方へのお知らせ](http://www.e-tax.nta.go.jp/topics/topics_280104_mynumbercard.htm) に マイナンバーカード(電子証明書は標準的に組み込まれます。)を利用して、e-Taxにより申告手続等を行う場合は、マイナンバーカードの電子証明書をe-Taxに登録する必要があります。　また、既に住民基本台帳カードの電子証明書をe-Taxに登録している場合についても、新たに取得したマイナンバーカードの電子証明書をe-Taxに再登録する必要があります。　なお、電子証明書の登録・再登録の方法については、確定申告書等作成コーナー「『利用者識別番号等の入力画面』からの電子証明書の登録・再登録方法」をご確認ください。 と書いてあった のだが、 [平成30年分 確定申告書等作成コーナー](https://www.keisan.nta.go.jp/h30/ta_top.htm) に『利用者識別番号等の入力画面』が無く、思わぬ落とし穴に難航。
+今年は [12月にマイナンバーカードを発行した](20181212_mynumber) ので、電子証明書を再登録しないとな～と思って調べてみたところ、やっぱり [マイナンバーカードを取得された方へのお知らせ](http://www.e-tax.nta.go.jp/topics/topics_280104_mynumbercard.htm) に マイナンバーカード(電子証明書は標準的に組み込まれます。)を利用して、e-Taxにより申告手続等を行う場合は、マイナンバーカードの電子証明書をe-Taxに登録する必要があります。　また、既に住民基本台帳カードの電子証明書をe-Taxに登録している場合についても、新たに取得したマイナンバーカードの電子証明書をe-Taxに再登録する必要があります。　なお、電子証明書の登録・再登録の方法については、確定申告書等作成コーナー「『利用者識別番号等の入力画面』からの電子証明書の登録・再登録方法」をご確認ください。 と書いてあった のだが、 [平成30年分 確定申告書等作成コーナー](https://www.keisan.nta.go.jp/h30/ta_top.htm) に『利用者識別番号等の入力画面』が無く、思わぬ落とし穴に難航。
 最終的に [e-Tax](https://ja.wikipedia.org/wiki/E-Tax) のクライアントソフトウェアをインストールして「利用者情報、電子証明書の登録」を行って平成最後の確定申告 を完了したのだが、どうやら [e-Tax利用の簡便化](http://www.e-tax.nta.go.jp/kanbenka/) という改修で「e-Taxソフト(WEB版)」に「マイナンバーカード方式」でログインすればe-Taxを利用するために事前準備として必要であった電子証明書の登録が不要です。 という事になったらしい。
 結果的に随分と無駄な時間を過ごしたようだが、ぜひ来年度は [e-Tax](https://ja.wikipedia.org/wiki/E-Tax) ソフト（WEB版）が [Internet Explorer 11](https://ja.wikipedia.org/wiki/Internet_Explorer_11) しか対応していない問題を解決して下さいませ。
 以前書いた、 [Google Apps Scriptでクレジットカード利用明細を毎月自動で奥さんにメール送信する](https://qiita.com/takeruko/items/5fed0f7acc1a60d1df76) とか [金融データAPIのMT LINK](https://qiita.com/makdad/items/49b7653253c54be94b78) とか参考に、自力でやる話は宿題に。
@@ -33,7 +33,7 @@
       <pubDate>Thu, 14 Feb 2019 01:19:37 +0900</pubDate>
       
       <guid>http://yano4413.github.io/bravotouring/post/20190214_tax/</guid>
-      <description> [昨年は2月21日](post/20180227_freee) から始めた帳簿付けを本日より開始。
+      <description> [昨年は2月21日](20180227_freee) から始めた帳簿付けを本日より開始。
 まずは [会計freee(フリー)](https://www.freee.co.jp/) にログイン。無料プランからスタータープランに昇格し、会計年度を2017年から2018年に切り替え。
 その間に楽天カード、J-WEST(JCB)カード、福銀アレコレ(VISA)カード、JQ(セゾン)カードなどのカード明細をCSVでダウンロード。月ごとのCSVを簡単に1年分に纏めたあと、 [会計freee(フリー)](https://www.freee.co.jp/) にアップロードして、仕訳登録。8割方が自動仕訳で済んでしまうので、融通の利かない「やよいの何とか」と悪戦苦闘していた昔を考えれば天国だな。
 相変わらずセゾンカードの明細が直近3ヶ月分しか取得できない困ったちゃん なのでハガキの請求明細も棚卸ししてチェック。そういえば [INTERNET Watchの記事](https://internet.watch.impress.co.jp/docs/special/1168961.html) を読んでみたところ、クラウド家計簿サービスの [Zaim](https://zaim.net/) や [Moneytree](https://moneytree.jp/) 、 [Kakeibon](https://kakeibo.ocn.ne.jp/) などで自動取得しておくこともできそうな印象だ。

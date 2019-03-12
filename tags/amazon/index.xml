@@ -17,12 +17,10 @@
       <pubDate>Sat, 16 Feb 2019 23:56:04 +0900</pubDate>
       
       <guid>http://yano4413.github.io/bravotouring/post/20190216_firetv4k/</guid>
-      <description>先日ポチッたFire TV Stick 4Kが到着。
+      <description>[先日](20190212_firetv4k)ポチッたFire TV Stick 4Kが到着。
 VLC for FireとKodiでLAN経由の動画再生ができる事を確認したが、やっぱり「VLC for Fire」ではサムネイル表示がされず、ファイル名も24文字しか表示されないコンテンツブラウザがイマイチなので、「Kodi」の方がいい感じ。
-昨年調達した328P6AUBREBでBig Buck Bunnyの4K版をWQHDダウンコンバート再生してみたが、30pはさすがの解像感で全く問題無い。60pだと時折引っかかる気がしないでも無いが許容範囲内で合格だ。
-…と思ったのだが、どうやらSDコンテンツでも再生できないファイル がある模様。しかも、エラーになるわけでもなく黙り込んで反応が無くなり、再起動しないと復旧しないという難儀な症状。
-困ったな。
-【参照】 ●AV Watch https://av.watch.impress.co.jp/ ┣【ミニレビュー】速く使いやすくなった「Fire TV Stick」は音声標準対応。テレビで映画、スポーツの新基準 2017/04/06 ┣4K/HDRとAlexa対応の「Fire TV Stick 4K」は6,980円。「30分早送りして」 2018/10/03 ┣Alexaから声で操作、「Fire TV Stick 4K」を体験 2018/10/11 ┣【レビュー】24p出力・HDR・Alexa。すべてが強化された「Fire TV Stick 4K」。実はリモコンが◎ 2018/12/21 ┗Fire TV StickにAlexaやテレビ操作対応リモコン付き新モデル。4,980円 2019/01/16 ●ラジオライフ.com https://radiolife.com/ ┣KODIをAmazon Fire TVにインストールする方法 ┗FireTVに絶対にインストールすべきアプリ6選 ●Big Buck Bunny https://peach.blender.org/ ┗Download ●Big Buck Bunny 3D &amp;amp; HFR &amp;amp; 4K http://bbb3d.renderfarming.net/ ┗Download Guide: Big Buck Bunny, Sunflower version ●Amazon開発者ポータル https://developer.</description>
+[昨年調達した328P6AUBREB](20180412_display)でBig Buck Bunnyの4K版をWQHDダウンコンバート再生してみたが、30pはさすがの解像感で全く問題無い。60pだと時折引っかかる気がしないでも無いが許容範囲内で合格だ。
+…と思ったのだが、どうやらSDコンテンツでも再生できないファイル がある模様。しかも、エラーになるわけでもなく黙り込んで反応が無くなり、再起動しないと復旧しないという難儀な症状。 困ったな。 【参照】 ●AV Watch https://av.watch.impress.co.jp/ ┣【ミニレビュー】速く使いやすくなった「Fire TV Stick」は音声標準対応。テレビで映画、スポーツの新基準 2017/04/06 ┣4K/HDRとAlexa対応の「Fire TV Stick 4K」は6,980円。「30分早送りして」 2018/10/03 ┣Alexaから声で操作、「Fire TV Stick 4K」を体験 2018/10/11 ┣【レビュー】24p出力・HDR・Alexa。すべてが強化された「Fire TV Stick 4K」。実はリモコンが◎ 2018/12/21 ┗Fire TV StickにAlexaやテレビ操作対応リモコン付き新モデル。4,980円 2019/01/16 ●ラジオライフ.com https://radiolife.com/ ┣KODIをAmazon Fire TVにインストールする方法 ┗FireTVに絶対にインストールすべきアプリ6選 ●Big Buck Bunny https://peach.blender.org/ ┗Download ●Big Buck Bunny 3D &amp;amp; HFR &amp;amp; 4K http://bbb3d.renderfarming.net/ ┗Download Guide: Big Buck Bunny, Sunflower version ●Amazon開発者ポータル https://developer.</description>
     </item>
     
     <item>
@@ -44,7 +42,7 @@ Fire TV Stick 4Kはまだ下がりそうにないし、4K対応ディスプレ�
       <pubDate>Sun, 27 Jan 2019 23:56:04 +0900</pubDate>
       
       <guid>http://yano4413.github.io/bravotouring/post/20190127_fire7/</guid>
-      <description>11月に調達したFire 7 タブレット。
+      <description>[11月](20181103_fire7)に調達したFire 7 タブレット。
 鉄板メディアプレーヤーVLCのFire版、VLC for FireでもmicroSDカードからの動画再生の動作確認OK。サムネイル表示がされず、ファイル名も24文字しか表示されないコンテンツブラウザがイマイチだが、再生速度を５％単位で変えられて2倍速でも自然な音声で聴きやすいのは素晴らしい。
 暫く使っていると何となくBluetooth接続音声の遅延 が気になったので調べてみたところ、どうやらFire 7 タブレットのオーディオ・コーデックが遅延の大きいSBC(SubBand Codec)のみ しか実装していないせいでどうにもならない模様。ヘッドホンで聴くのなら大丈夫だが、モノラル＆背面のスピーカーだと聴こえづらいので、このままでは車載で子供用ビデオコンソールにするのは難しい事が判明…
 一方でLAN(SMB/UPnP)経由 の動画再生も確認できた。VLC for Android と違い「Windows ネットワーク (SMB)」の選択で見えないルーター超えのサーバに対してIPアドレス指定でアクセスできない のだが、サーバ側セグメントのAPに接続して「お気に入り」に登録しておけばIPアドレスを覚えておいてくれるらしく、元のセグメントに戻してもルーター超えで動画再生できた。
@@ -58,7 +56,7 @@ Fire TV Stick 4Kはまだ下がりそうにないし、4K対応ディスプレ�
       <pubDate>Sat, 05 Jan 2019 23:02:33 +0900</pubDate>
       
       <guid>http://yano4413.github.io/bravotouring/post/20190105_alexa_news/</guid>
-      <description>12月に調達したAmazon Echo Spot。
+      <description>[12月に調達](20181209_echo_spot)したAmazon Echo Spot。
 天気予報などスクリーンで情報が見られるのは良いのだが、Alexaスキル:NHKニュースの素材が「ラジオ」でなく「テレビ」になってしまったので、ちゃんと目視しないと内容が理解できないようになってしまい、残念な結果に。
 …と思って調べたところ「ご同輩」は少なくないようで、Alexaスキル:NHKラジオニュースを有効にすれば良い、とわかり一件落着。
 ちなみにAlexaスキル:NHKラジオニュースであっても単に「ラジオ第1」のオンエアを時間指定で録音しているだけらしく、大相撲開催期間中の夕方４～６時はニュースの代わりに大相撲中継となってしまう事故が多い(笑)。

@@ -1,0 +1,17 @@
+metaDataFormat = "toml"
+
+baseURL = "http://yano4413.github.io/bravotouring"
+#bind = "0.0.0.0"
+languageCode = "ja-jp"
+title = "My New Hugo Site"
+theme = "hugo-zen"
+canonifyurls = true
+
+[params]
+  description = "This is yourblog"
+  author = "your name"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+

@@ -17,9 +17,9 @@
       <pubDate>Mon, 04 Feb 2019 23:39:25 +0900</pubDate>
       
       <guid>http://yano4413.github.io/bravotouring/post/20190204_st6000dm003/</guid>
-      <description>[NTT-X Store](https://nttxstore.jp/) から [Barracuda 6TB ST6000DM003](https://nttxstore.jp/_II_CG15893468) が11,980円 (会員割引クーポン適用)、というDMが着弾。
- [昨年末](20181229_market) にHDDの相場として「TB単価で2,000円前後」と書いたのはアキバのセール価格による最安値だったのだが、 [SEAGATE ST6000DM003 [6TB SATA600 5400]](https://kakaku.com/item/K0001026181/) の実勢価格を見ても「送料込みのTB単価で2,000円切り」はボーダーライン。 [WD25EZRS死亡](20190116_wd25ezrs) で予備が無くなった上に [昨年5月](20180510_wd30ezrx) に11TBとなったRAIDボリュームも空き容量が10％を切った ところだったのでポチッとな。
-早速、空箱状態の [IO DATA:HDC-LA4.0](20170116_hdcla) に移設し、GT110b にUSB接続し、syslog出力から&amp;quot;/dev/sdj&amp;quot; で&amp;quot;unknown partition table&amp;quot; となっているのを確認。 root@GT110b:~# tail -f /var/log/syslog 2019-02-04T23:35:06.857604+09:00 GT110b kernel: [1026894.914699] sd 8:0:0:0: [sdj] Spinning up disk... 2019-02-04T23:35:12.077627+09:00 GT110b kernel: [1026900.134284] sd 8:0:0:0: [sdj] Very big device. Trying to use READ CAPACITY(16). 2019-02-04T23:35:12.077632+09:00 GT110b kernel: [1026900.134650] sd 8:0:0:0: [sdj] 11721045168 512-byte logical blocks: (6.</description>
+      <description>NTT-X Store から Barracuda 6TB ST6000DM003 が11,980円 (会員割引クーポン適用)、というDMが着弾。
+昨年末 にHDDの相場として「TB単価で2,000円前後」と書いたのはアキバのセール価格による最安値だったのだが、 SEAGATE ST6000DM003 [6TB SATA600 5400] の実勢価格を見ても「送料込みのTB単価で2,000円切り」はボーダーライン。 WD25EZRS死亡 で予備が無くなった上に 昨年5月 に11TBとなったRAIDボリュームも空き容量が10％を切った ところだったのでポチッとな。
+早速、空箱状態の IO DATA:HDC-LA4.0 に移設し、GT110b にUSB接続し、syslog出力から&amp;quot;/dev/sdj&amp;quot; で&amp;quot;unknown partition table&amp;quot; となっているのを確認。 root@GT110b:~# tail -f /var/log/syslog 2019-02-04T23:35:06.857604+09:00 GT110b kernel: [1026894.914699] sd 8:0:0:0: [sdj] Spinning up disk&amp;hellip; 2019-02-04T23:35:12.077627+09:00 GT110b kernel: [1026900.134284] sd 8:0:0:0: [sdj] Very big device. Trying to use READ CAPACITY(16). 2019-02-04T23:35:12.077632+09:00 GT110b kernel: [1026900.134650] sd 8:0:0:0: [sdj] 11721045168 512-byte logical blocks: (6.</description>
     </item>
     
   </channel>

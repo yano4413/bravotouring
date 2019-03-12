@@ -24,8 +24,7 @@
 最終的にe-Taxのクライアントソフトウェアをインストールして「利用者情報、電子証明書の登録」を行って平成最後の確定申告 を完了したのだが、どうやらe-Tax利用の簡便化という改修で「e-Taxソフト(WEB版)」に「マイナンバーカード方式」でログインすればe-Taxを利用するために事前準備として必要であった電子証明書の登録が不要です。 という事になったらしい。
 結果的に随分と無駄な時間を過ごしたようだが、ぜひ来年度はe-Taxソフト（WEB版）がInternet Explorer 11しか対応していない問題を解決して下さいませ。
 以前書いた、Google Apps Scriptでクレジットカード利用明細を毎月自動で奥さんにメール送信するとか金融データAPIのMT LINKとか参考に、自力でやる話は宿題に。
-【参照】 ●INTERNET Watch https://internet.watch.impress.co.jp/ ┣サラリーマンと個人事業主の税金の話まとめ ┗「確定申告」個人事業主がゼロから始める方法 ＜青色申告ソフトの初期設定・自動取込編＞ 2019/02/12 ●Engadget 日本版 https://japanese.engadget.com/ ┗マイクロソフト、企業にInternet Explorerの使用をやめるよう要請。「IEは技術的負債もたらす」 2019/02/08 ●会計ソフト freee (フリー) https://www.freee.co.jp/ ┣確定申告の基礎知識 ┗そもそも控除とはどんなもの？収入に対して適用される所得控除とは ●国税庁 http://www.nta.go.jp/ ┗平成30年分 確定申告特集 ●e-Tax http://www.e-tax.nta.go.jp/ ┣マイナンバーカード及び住民基本台帳カードに関するお知らせ ┣e-Tax利用の簡便化の概要について ┗e-Tax利用の簡便化についてよくある質問 ●Wikipedia https://ja.wikipedia.org/wiki/ ┣確定申告 ┣e-Tax ┣公的個人認証サービス ┣個人番号カード ┣Internet Explorer ┗Internet Explorer 11
-【参照】 ●INTERNET Watch https://internet.watch.impress.co.jp/ ┣サラリーマンと個人事業主の税金の話まとめ ┗「確定申告」個人事業主がゼロから始める方法 ＜青色申告ソフトの初期設定・自動取込編＞ 2019/02/12 ●Engadget 日本版 https://japanese.</description>
+【参照】 ●INTERNET Watch https://internet.watch.impress.co.jp/ ┣サラリーマンと個人事業主の税金の話まとめ ┗「確定申告」個人事業主がゼロから始める方法 ＜青色申告ソフトの初期設定・自動取込編＞ 2019/02/12 ●Engadget 日本版 https://japanese.engadget.com/ ┗マイクロソフト、企業にInternet Explorerの使用をやめるよう要請。「IEは技術的負債もたらす」 2019/02/08 ●会計ソフト freee (フリー) https://www.freee.co.jp/ ┣確定申告の基礎知識 ┗そもそも控除とはどんなもの？収入に対して適用される所得控除とは ●国税庁 http://www.nta.go.jp/ ┗平成30年分 確定申告特集 ●e-Tax http://www.e-tax.nta.go.jp/ ┣マイナンバーカード及び住民基本台帳カードに関するお知らせ ┣e-Tax利用の簡便化の概要について ┗e-Tax利用の簡便化についてよくある質問 ●Wikipedia https://ja.wikipedia.org/wiki/ ┣確定申告 ┣e-Tax ┣公的個人認証サービス ┣個人番号カード ┣Internet Explorer ┗Internet Explorer 11 </description>
     </item>
     
   </channel>

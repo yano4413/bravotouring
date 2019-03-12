@@ -17,10 +17,10 @@
       <pubDate>Wed, 20 Feb 2019 23:56:04 +0900</pubDate>
       
       <guid>http://yano4413.github.io/bravotouring/post/20190220_pixela/</guid>
-      <description>Amazonマーケットプレイス出店記念セールで、4K/HDRに対応した「PIXELA Smart BOX(KSTB5043)」が4,980円 というニュース。
-先日、Fire TV Stick 4Kをポチッたばかりだが、Fire OSなAmazon Fire TVでなく、ジェネリックなAndroidのAndroid TVも必要かと。
-CPUはAndroid TVのセットトップボックスとしてはポピュラーなAmlogic S905 (ARM Cotex-A53) Quad-core 2GHzとの事。「クアッドコア1.7GHz」なFire TV Stick 4Kよりも強力だが、通常売価に見合うだけの差があるかどうか、乞うご期待。
-【参照】 ●PHILE WEB https://www.phileweb.com/ ┣ピクセラ、4K/HDR対応のAndroid TV搭載STB「Smart Box」。14,800円 2017/09/20 ┗ピクセラ、4Kチューナー内蔵55型テレビを89,800円で販売するキャンペーン。STBは4,980円に 2019/02/15 ●AV Watch https://av.watch.impress.co.jp/ ┣【レビュー】24p出力・HDR・Alexa。すべてが強化された「Fire TV Stick 4K」。実はリモコンが◎ 2018/12/21 ┣TVをスマート化できる4K/HDR対応Android TV、ピクセラ「Smart Box」。約14,800円 2017/09/20 ┣Fire TV StickにAlexaやテレビ操作対応リモコン付き新モデル。4,980円 2019/01/16 ┗ピクセラ、4Kチューナ + Android搭載TVが43型69,800円のセール。55型89,800円 2019/02/15 ●バリューな商品を求めて http://value-kaden.com/ ┗アンドロイドTV BOXを比較してお安く購入 ●GPad https://gpad.tv/ ┣STB ┣グーグル、Android TV 搭載メディアプレイヤー「Nexus Player」の日本販売発表、価格12,800円で3月10日発売 2015/01/29 ┣ソフトバンク、Android TV 搭載のグーグルメディアプレイヤー「Nexus Player」取扱発表、価格12,800円で2月27日発売 2015/02/26 ┗ピクセラ、Android TV 搭載 4K HDR 動画再生対応 IP セットトップボックス「PIXELA Smart BOX」登場、価格14,800円で10月6日発売 2017/10/06 ●株式会社ピクセラ http://www.</description>
+      <description>[Amazonマーケットプレイス出店記念セール](https://www.phileweb.com/news/d-av/201902/15/46584.html) で、4K/HDRに対応した「PIXELA Smart BOX(KSTB5043)」が4,980円 というニュース。
+ [先日](post/20190212_firetv4k) 、 [Fire TV Stick 4K](https://www.amazon.co.jp/exec/obidos/ASIN/B075WZ889D/yanosdigitalg-22/ref=nosim/) をポチッたばかりだが、 [Fire OS](https://ja.wikipedia.org/wiki/Fire_OS) な [Amazon Fire TV](https://ja.wikipedia.org/wiki/Amazon_Fire_TV) でなく、ジェネリックな [Android](https://ja.wikipedia.org/wiki/Android) の [Android TV](https://ja.wikipedia.org/wiki/Android_TV) も必要かと。
+CPUは [Android TV](https://ja.wikipedia.org/wiki/Android_TV) のセットトップボックスとしてはポピュラーなAmlogic S905 (ARM Cotex-A53) Quad-core 2GHzとの事。「クアッドコア1.7GHz」な [Fire TV Stick 4K](https://www.amazon.co.jp/exec/obidos/ASIN/B075WZ889D/yanosdigitalg-22/ref=nosim/) よりも強力だが、通常売価に見合うだけの差があるかどうか、乞うご期待。
+【参照】 ●PHILE WEB https://www.phileweb.com/ ┣ピクセラ、4K/HDR対応のAndroid TV搭載STB「Smart Box」。14,800円 2017/09/20 ┗ピクセラ、4Kチューナー内蔵55型テレビを89,800円で販売するキャンペーン。STBは4,980円に 2019/02/15 ●AV Watch https://av.watch.impress.co.jp/ ┣【レビュー】24p出力・HDR・Alexa。すべてが強化された「Fire TV Stick 4K」。実はリモコンが◎ 2018/12/21 ┣TVをスマート化できる4K/HDR対応Android TV、ピクセラ「Smart Box」。約14,800円 2017/09/20 ┣Fire TV StickにAlexaやテレビ操作対応リモコン付き新モデル。4,980円 2019/01/16 ┗ピクセラ、4Kチューナ + Android搭載TVが43型69,800円のセール。55型89,800円 2019/02/15 ●バリューな商品を求めて http://value-kaden.</description>
     </item>
     
     <item>
@@ -29,12 +29,10 @@ CPUはAndroid TVのセットトップボックスとしてはポピュラーなA
       <pubDate>Sat, 16 Feb 2019 23:56:04 +0900</pubDate>
       
       <guid>http://yano4413.github.io/bravotouring/post/20190216_firetv4k/</guid>
-      <description>先日ポチッたFire TV Stick 4Kが到着。
-VLC for FireとKodiでLAN経由の動画再生ができる事を確認したが、やっぱり「VLC for Fire」ではサムネイル表示がされず、ファイル名も24文字しか表示されないコンテンツブラウザがイマイチなので、「Kodi」の方がいい感じ。
-昨年調達した328P6AUBREBでBig Buck Bunnyの4K版をWQHDダウンコンバート再生してみたが、30pはさすがの解像感で全く問題無い。60pだと時折引っかかる気がしないでも無いが許容範囲内で合格だ。
-…と思ったのだが、どうやらSDコンテンツでも再生できないファイル がある模様。しかも、エラーになるわけでもなく黙り込んで反応が無くなり、再起動しないと復旧しないという難儀な症状。
-困ったな。
-【参照】 ●AV Watch https://av.watch.impress.co.jp/ ┣【ミニレビュー】速く使いやすくなった「Fire TV Stick」は音声標準対応。テレビで映画、スポーツの新基準 2017/04/06 ┣4K/HDRとAlexa対応の「Fire TV Stick 4K」は6,980円。「30分早送りして」 2018/10/03 ┣Alexaから声で操作、「Fire TV Stick 4K」を体験 2018/10/11 ┣【レビュー】24p出力・HDR・Alexa。すべてが強化された「Fire TV Stick 4K」。実はリモコンが◎ 2018/12/21 ┗Fire TV StickにAlexaやテレビ操作対応リモコン付き新モデル。4,980円 2019/01/16 ●ラジオライフ.com https://radiolife.com/ ┣KODIをAmazon Fire TVにインストールする方法 ┗FireTVに絶対にインストールすべきアプリ6選 ●Big Buck Bunny https://peach.blender.org/ ┗Download ●Big Buck Bunny 3D &amp;amp; HFR &amp;amp; 4K http://bbb3d.renderfarming.net/ ┗Download Guide: Big Buck Bunny, Sunflower version ●Amazon開発者ポータル https://developer.</description>
+      <description>[先日](post/20190212_firetv4k) ポチッた [Fire TV Stick 4K](https://www.amazon.co.jp/exec/obidos/ASIN/B079QRQTCR/yanosdigitalg-22/ref=nosim/) が到着。
+ [VLC for Fire](https://www.amazon.co.jp/VLC-Mobile-Team-for-Fire/dp/B00U65KQMQ) とKodiでLAN経由の動画再生ができる事を確認したが、やっぱり「VLC for Fire」ではサムネイル表示がされず、ファイル名も24文字しか表示されないコンテンツブラウザがイマイチなので、「Kodi」の方がいい感じ。
+ [昨年調達した328P6AUBREB](post/20180412_display) で [Big Buck Bunnyの4K版](http://bbb3d.renderfarming.net/download.html) をWQHDダウンコンバート再生してみたが、30pはさすがの解像感で全く問題無い。60pだと時折引っかかる気がしないでも無いが許容範囲内で合格だ。
+…と思ったのだが、どうやらSDコンテンツでも再生できないファイル がある模様。しかも、エラーになるわけでもなく黙り込んで反応が無くなり、再起動しないと復旧しないという難儀な症状。 困ったな。 【参照】 ●AV Watch https://av.watch.impress.co.jp/ ┣【ミニレビュー】速く使いやすくなった「Fire TV Stick」は音声標準対応。テレビで映画、スポーツの新基準 2017/04/06 ┣4K/HDRとAlexa対応の「Fire TV Stick 4K」は6,980円。「30分早送りして」 2018/10/03 ┣Alexaから声で操作、「Fire TV Stick 4K」を体験 2018/10/11 ┣【レビュー】24p出力・HDR・Alexa。すべてが強化された「Fire TV Stick 4K」。実はリモコンが◎ 2018/12/21 ┗Fire TV StickにAlexaやテレビ操作対応リモコン付き新モデル。4,980円 2019/01/16 ●ラジオライフ.com https://radiolife.com/ ┣KODIをAmazon Fire TVにインストールする方法 ┗FireTVに絶対にインストールすべきアプリ6選 ●Big Buck Bunny https://peach.blender.org/ ┗Download ●Big Buck Bunny 3D &amp;amp; HFR &amp;amp; 4K http://bbb3d.</description>
     </item>
     
     <item>
@@ -43,11 +41,11 @@ VLC for FireとKodiでLAN経由の動画再生ができる事を確認したが�
       <pubDate>Tue, 12 Feb 2019 23:56:04 +0900</pubDate>
       
       <guid>http://yano4413.github.io/bravotouring/post/20190212_firetv4k/</guid>
-      <description>先日書いた「Fire TV Stick」の件。
-実はリモコンが◎らしいのでどれをチョイスすればいいのか悩んでいたのだが、新旧の違いは Alexa対応音声認識リモコン(第2世代)に追加されたボタンを使うことで、Fire TV Stickが対応するテレビ、サウンドバー、AVアンプの電源や音量の操作ができるほか、音声でもこれらの操作が可能になる。 とか、 Alexa対応リモコン第1世代とAlexa対応リモコン第2世代の違いというのは、テレビをコントロールできるかどうかなんですね。有名メーカーのテレビやAV機器がコントロールできることです。 と書いてあるとおり、「Alexa対応」ではなく「赤外線操作TVリモコン機能」という事らしい。
-Fire TV Stick 4Kはまだ下がりそうにないし、4K対応ディスプレイが無い ので4Kでなくてもいい。
-それなら「第1世代リモコン」で充分かと思っていたのだが、4Kでないにせよ昨年調達したWQHD＆HDRな328P6AUBREBの潜在能力を充分活用できていない事を思い出したので、Fire TV Stick 4Kをポチッとな。
-【参照】 ●AV Watch https://av.watch.impress.co.jp/ ┣【ミニレビュー】速く使いやすくなった「Fire TV Stick」は音声標準対応。テレビで映画、スポーツの新基準 2017/04/06 ┣4K/HDRとAlexa対応の「Fire TV Stick 4K」は6,980円。「30分早送りして」 2018/10/03 ┣Alexaから声で操作、「Fire TV Stick 4K」を体験 2018/10/11 ┣【レビュー】24p出力・HDR・Alexa。すべてが強化された「Fire TV Stick 4K」。実はリモコンが◎ 2018/12/21 ┗Fire TV StickにAlexaやテレビ操作対応リモコン付き新モデル。4,980円 2019/01/16 ●Engadget 日本版 https://japanese.engadget.com/ ┗「Amazon Fire TV Stick」Alexa対応リモコン付属の新モデルが登場 2019/01/17 ●ねとらぼ https://nlab.itmedia.co.jp/nl/ ┗Amazon「Fire TV Stick」新モデルが予約開始　テレビの音量や電源も操作可能に 2019/01/17 ●BlackHouse https://sidedish.org/ ┗Alexa対応音声認識リモコン第2世代と第1世代の違いとは FireTVめちゃ便利 2019/02/10 ●Amazon.co.jp https://www.amazon.co.jp/ ┣Fire 7 タブレット (7インチディスプレイ) 8GB 5,980円 ┣Fire TV Stick - Alexa対応音声認識リモコン(第1世代)付属 3,980円 ┣新登場 Fire TV Stick - Alexa対応音声認識リモコン(第2世代)付属 4,980円 ┗新登場 Fire TV Stick 4K - Alexa対応音声認識リモコン(第2世代)付属 6,980円 ●Wikipedia https://ja.</description>
+      <description>[先日](post/20190127_fire7) 書いた「Fire TV Stick」の件。
+ [実はリモコンが◎](https://av.watch.impress.co.jp/docs/review/review/1158668.html) らしいのでどれをチョイスすればいいのか悩んでいたのだが、新旧の違いは Alexa対応音声認識リモコン(第2世代)に追加されたボタンを使うことで、Fire TV Stickが対応するテレビ、サウンドバー、AVアンプの電源や音量の操作ができるほか、音声でもこれらの操作が可能になる。 とか、 Alexa対応リモコン第1世代とAlexa対応リモコン第2世代の違いというのは、テレビをコントロールできるかどうかなんですね。有名メーカーのテレビやAV機器がコントロールできることです。 と書いてあるとおり、「Alexa対応」ではなく「赤外線操作TVリモコン機能」という事らしい。
+ [Fire TV Stick 4K](https://www.amazon.co.jp/exec/obidos/ASIN/B079QRQTCR/yanosdigitalg-22/ref=nosim/) はまだ下がりそうにないし、4K対応ディスプレイが無い ので4Kでなくてもいい。
+それなら「第1世代リモコン」で充分かと思っていたのだが、4Kでないにせよ [昨年調達したWQHD＆HDRな328P6AUBREB](post/20180412_display) の潜在能力を充分活用できていない事を思い出したので、 [Fire TV Stick 4K](https://www.amazon.co.jp/exec/obidos/ASIN/B079QRQTCR/yanosdigitalg-22/ref=nosim/) をポチッとな。
+【参照】 ●AV Watch https://av.watch.impress.co.jp/ ┣【ミニレビュー】速く使いやすくなった「Fire TV Stick」は音声標準対応。テレビで映画、スポーツの新基準 2017/04/06 ┣4K/HDRとAlexa対応の「Fire TV Stick 4K」は6,980円。「30分早送りして」 2018/10/03 ┣Alexaから声で操作、「Fire TV Stick 4K」を体験 2018/10/11 ┣【レビュー】24p出力・HDR・Alexa。すべてが強化された「Fire TV Stick 4K」。実はリモコンが◎ 2018/12/21 ┗Fire TV StickにAlexaやテレビ操作対応リモコン付き新モデル。4,980円 2019/01/16 ●Engadget 日本版 https://japanese.engadget.com/ ┗「Amazon Fire TV Stick」Alexa対応リモコン付属の新モデルが登場 2019/01/17 ●ねとらぼ https://nlab.itmedia.co.jp/nl/ ┗Amazon「Fire TV Stick」新モデルが予約開始　テレビの音量や電源も操作可能に 2019/01/17 ●BlackHouse https://sidedish.</description>
     </item>
     
   </channel>

@@ -17,7 +17,7 @@
       <pubDate>Fri, 15 Feb 2019 22:45:28 +0900</pubDate>
       
       <guid>http://yano4413.github.io/bravotouring/post/20190215_deskmini_a300/</guid>
-      <description>AMDなベアボーンキット、「DeskMini A300」良さそう。
+      <description> [AMD](https://ja.wikipedia.org/wiki/AMD) な [ベアボーンキット](https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A2%E3%83%9C%E3%83%BC%E3%83%B3%E3%82%AD%E3%83%83%E3%83%88) 、「DeskMini A300」良さそう。
 【参照】 ●PC Watch https://pc.watch.impress.co.jp/ ┣Intel第8世代CPUに対応したASRock製小型ベアボーン 2018/06/29 ┗【イベントレポート】ASRock、約2Lの筐体でRyzenを搭載できるMini-STXベアボーン 2019/01/11 ●ASCII.jp https://ascii.jp/ ┣MiniSTXのミニサイズながら機能十分なASRock製ベアボーン、CFD販売より 2019/01/11 ┗「DeskMini A300」をインテル版と比較！今話題の小型ベアボーンをチェック 2019/02/14 ●CFD販売 https://www.cfd.co.jp/ ┗ASRock AMD A300 MiniSTXマザーボード搭載ベアボーン ●価格.com https://kakaku.com/ ┗ASRock DeskMini A300/B/BB/BOX/JP 価格比較 ●Wikipedia https://ja.wikipedia.org/wiki/ ┣AMD ┣ASRock ┗ベアボーンキット </description>
     </item>
     
@@ -27,11 +27,8 @@
       <pubDate>Thu, 10 Jan 2019 23:25:05 +0900</pubDate>
       
       <guid>http://yano4413.github.io/bravotouring/post/20190110_ryzen/</guid>
-      <description>昨年4月に第2世代(Pinnacle Ridge)となったAMDのRyzen。
-2019年半ばにプロセスルールを12nm→7nmとした「ZEN 2」のデスクトップPC向けプロセッサの発売を発表。
-モデルナンバーは3000番台で、対抗製品と同等性能で消費電力は30%低い、ということだ。
-ひゃっは～。
-【参照】 ●PC Watch http://pc.watch.impress.co.jp/ ┣【後藤弘茂のWeekly海外ニュース】AMDが12nmプロセスの第2世代Ryzenファミリを正式発表 2018/04/19 ┣【後藤弘茂のWeekly海外ニュース】32コアで破格の1,799ドル。AMDが「2nd Gen Ryzen Threadripper」を8月13日から出荷 2018/08/06 ┣【後藤弘茂のWeekly海外ニュース】AMDの7nmプロセス「ZEN 2」CPUコアのマイクロアーキテクチャ拡張 2018/11/08 ┣【後藤弘茂のWeekly海外ニュース】ZEN 2ベースの64コアCPU「Rome」はなぜCPUとI/Oを分離したのか 2018/12/04 ┣【イベントレポート】【速報】AMD、7nmプロセス製造の「次世代Ryzenプロセッサ」を披露 ～Core i9-9900Kより高速かつ低消費電力 2019/01/10 ┗【イベントレポート】【詳報】AMD、PCIe 4.0に対応した第3世代Ryzenプロセッサを今夏投入 ～Core i9-9900Kを上回る性能を発揮し、より低消費電力とアピール 2019/01/10 ●4Gamer.net https://www.4gamer.net/ ┣AMD，64コア128スレッド対応の次世代EPYC「Rome」を予告。「Zen 3」「Zen 4」マイクロアーキテクチャ開発の進捗も明らかに 2018/11/08 ┣西川善司の3DGE：驚異の64コア128スレッド対応。AMDの次世代モンスターCPU「Rome」はどんな構造になっているのか 2018/11/08 ┣AMD，第3世代Ryzenを披露。サンプルチップの時点でCINEBENCH R15のスコアはi9-9900Kを上回る 2019/01/10 ┣西川善司の3DGE：CPUは安泰で期待大と確信が持てたAMDのCES 2019基調講演。GPUは？ 2019/01/12 ┗第3世代Ryzenの16コアモデルは出るの？ Radeonはレイトレに対応するの？ AMDのキーパーソンに聞く 2019/01/16 ●Wikipedia https://ja.wikipedia.org/wiki/ ┣AMD ┣Zen (マイクロアーキテクチャ) ┗Ryzen </description>
+      <description> [昨年4月](post/20180423_ryzen) に第2世代(Pinnacle Ridge)となったAMDのRyzen。
+2019年半ばにプロセスルールを12nm→7nmとした「ZEN 2」のデスクトップPC向けプロセッサの発売を発表。 モデルナンバーは3000番台で、対抗製品と同等性能で消費電力は30%低い、ということだ。 ひゃっは～。 【参照】 ●PC Watch http://pc.watch.impress.co.jp/ ┣【後藤弘茂のWeekly海外ニュース】AMDが12nmプロセスの第2世代Ryzenファミリを正式発表 2018/04/19 ┣【後藤弘茂のWeekly海外ニュース】32コアで破格の1,799ドル。AMDが「2nd Gen Ryzen Threadripper」を8月13日から出荷 2018/08/06 ┣【後藤弘茂のWeekly海外ニュース】AMDの7nmプロセス「ZEN 2」CPUコアのマイクロアーキテクチャ拡張 2018/11/08 ┣【後藤弘茂のWeekly海外ニュース】ZEN 2ベースの64コアCPU「Rome」はなぜCPUとI/Oを分離したのか 2018/12/04 ┣【イベントレポート】【速報】AMD、7nmプロセス製造の「次世代Ryzenプロセッサ」を披露 ～Core i9-9900Kより高速かつ低消費電力 2019/01/10 ┗【イベントレポート】【詳報】AMD、PCIe 4.0に対応した第3世代Ryzenプロセッサを今夏投入 ～Core i9-9900Kを上回る性能を発揮し、より低消費電力とアピール 2019/01/10 ●4Gamer.net https://www.4gamer.net/ ┣AMD，64コア128スレッド対応の次世代EPYC「Rome」を予告。「Zen 3」「Zen 4」マイクロアーキテクチャ開発の進捗も明らかに 2018/11/08 ┣西川善司の3DGE：驚異の64コア128スレッド対応。AMDの次世代モンスターCPU「Rome」はどんな構造になっているのか 2018/11/08 ┣AMD，第3世代Ryzenを披露。サンプルチップの時点でCINEBENCH R15のスコアはi9-9900Kを上回る 2019/01/10 ┣西川善司の3DGE：CPUは安泰で期待大と確信が持てたAMDのCES 2019基調講演。GPUは？ 2019/01/12 ┗第3世代Ryzenの16コアモデルは出るの？ Radeonはレイトレに対応するの？ AMDのキーパーソンに聞く 2019/01/16 ●Wikipedia https://ja.wikipedia.org/wiki/ ┣AMD ┣Zen (マイクロアーキテクチャ) ┗Ryzen </description>
     </item>
     
   </channel>

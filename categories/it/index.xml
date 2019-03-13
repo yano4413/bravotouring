@@ -20,11 +20,11 @@
       <description>今年は 2月14日 から始めた帳簿付け。
 3日間で各口座明細のダウンロードと整理、 会計freee(フリー) への登録まで完了。
 現金出納の明細整理とか、固定資産の減価償却計算などを行い、 所得控除 の内容を精査。
-今年は 12月にマイナンバーカードを発行した ので、電子証明書を再登録しないとな～と思って調べてみたところ、やっぱり マイナンバーカードを取得された方へのお知らせ に マイナンバーカード(電子証明書は標準的に組み込まれます。)を利用して、e-Taxにより申告手続等を行う場合は、マイナンバーカードの電子証明書をe-Taxに登録する必要があります。　また、既に住民基本台帳カードの電子証明書をe-Taxに登録している場合についても、新たに取得したマイナンバーカードの電子証明書をe-Taxに再登録する必要があります。　なお、電子証明書の登録・再登録の方法については、確定申告書等作成コーナー「『利用者識別番号等の入力画面』からの電子証明書の登録・再登録方法」をご確認ください。 と書いてあった のだが、 平成30年分 確定申告書等作成コーナー に『利用者識別番号等の入力画面』が無く、思わぬ落とし穴に難航。
+今年は 12月にマイナンバーカードを発行した ので、電子証明書を再登録しないとな～と思って調べてみたところ、やっぱり マイナンバーカードを取得された方へのお知らせ に  マイナンバーカード(電子証明書は標準的に組み込まれます。)を利用して、e-Taxにより申告手続等を行う場合は、マイナンバーカードの電子証明書をe-Taxに登録する必要があります。　また、既に住民基本台帳カードの電子証明書をe-Taxに登録している場合についても、新たに取得したマイナンバーカードの電子証明書をe-Taxに再登録する必要があります。　なお、電子証明書の登録・再登録の方法については、確定申告書等作成コーナー「『利用者識別番号等の入力画面』からの電子証明書の登録・再登録方法」をご確認ください。 と書いてあった のだが、 平成30年分 確定申告書等作成コーナー に『利用者識別番号等の入力画面』が無く、思わぬ落とし穴に難航。
 最終的に e-Tax のクライアントソフトウェアをインストールして「利用者情報、電子証明書の登録」を行って平成最後の確定申告 を完了したのだが、どうやら e-Tax利用の簡便化 という改修で「e-Taxソフト(WEB版)」に「マイナンバーカード方式」でログインすればe-Taxを利用するために事前準備として必要であった電子証明書の登録が不要です。 という事になったらしい。
 結果的に随分と無駄な時間を過ごしたようだが、ぜひ来年度は e-Tax ソフト（WEB版）が Internet Explorer 11 しか対応していない問題を解決して下さいませ。
 以前書いた、 Google Apps Scriptでクレジットカード利用明細を毎月自動で奥さんにメール送信する とか 金融データAPIのMT LINK とか参考に、自力でやる話は宿題に。
-【参照】 ●INTERNET Watch https://internet.watch.impress.co.jp/ ┣サラリーマンと個人事業主の税金の話まとめ ┗「確定申告」個人事業主がゼロから始める方法 ＜青色申告ソフトの初期設定・自動取込編＞ 2019/02/12 ●Engadget 日本版 https://japanese.engadget.com/ ┗マイクロソフト、企業にInternet Explorerの使用をやめるよう要請。「IEは技術的負債もたらす」 2019/02/08 ●会計ソフト freee (フリー) https://www.freee.co.jp/ ┣確定申告の基礎知識 ┗そもそも控除とはどんなもの？収入に対して適用される所得控除とは ●国税庁 http://www.nta.go.jp/ ┗平成30年分 確定申告特集 ●e-Tax http://www.e-tax.nta.go.jp/ ┣マイナンバーカード及び住民基本台帳カードに関するお知らせ ┣e-Tax利用の簡便化の概要について ┗e-Tax利用の簡便化についてよくある質問 ●Wikipedia https://ja.</description>
+【参照】 ●INTERNET Watch https://internet.watch.impress.co.jp/ ┣サラリーマンと個人事業主の税金の話まとめ ┗「確定申告」個人事業主がゼロから始める方法 ＜青色申告ソフトの初期設定・自動取込編＞ 2019/02/12 ●Engadget 日本版 https://japanese.engadget.com/ ┗マイクロソフト、企業にInternet Explorerの使用をやめるよう要請。「IEは技術的負債もたらす」 2019/02/08 ●会計ソフト freee (フリー) https://www.freee.co.jp/ ┣確定申告の基礎知識 ┗そもそも控除とはどんなもの？収入に対して適用される所得控除とは ●国税庁 http://www.nta.go.jp/ ┗平成30年分 確定申告特集 ●e-Tax http://www.</description>
     </item>
     
     <item>
@@ -53,6 +53,19 @@ Amazon では PATRIOT デスクトップ用16GB(8GBx2枚組) が10,499円 、 PA
     </item>
     
     <item>
+      <title>エアコン洗浄</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190226_aircon/</link>
+      <pubDate>Tue, 26 Feb 2019 22:45:28 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190226_aircon/</guid>
+      <description>先日 のエアコン修理で勧められた「クリーニング」を実施。
+リビングの2011年製「ダイキン うるるとさらら(AN71LRPJ)」に加えて 寝室 の2007年製「日立 RAS-DZ40W2」の2台。
+アイ・コーポレーション 福岡東店 に依頼し、それぞれの室外機も含めて合計14,790円 でした。
+アイ・コーポレーション 福岡東店〒813-0025 福岡県福岡市東区青葉1-6-32 TEL:092-515-0412
+【参照】 ●ねとらぼ https://nlab.itmedia.co.jp/nl/ ┣エアコンクリーニングのメリットって、何があるの？ 2018/02/28 ┣エアコンの室外機って掃除した方がいいの？ 2018/03/08 ┣エアコンクリーニングをやるのは、いつの時期がおすすめ？ 2018/04/06 ┗エアコンが冷えない場合の原因と解決方法、教えて！ 2018/05/31 ●アイ・コーポレーション http://ai-corpo.co.jp/ ┗アイ・コーポレーション 福岡東店（フクオカヒガシ） ●ダイキン工業株式会社 https://www.daikin.co.jp/ ●Wikipedia https://ja.wikipedia.org/wiki/ ┣ダイキン工業 ┗エア・コンディショナー </description>
+    </item>
+    
+    <item>
       <title>鉄道ファン図書館</title>
       <link>http://yano4413.github.io/bravotouring/post/20190225_railfan/</link>
       <pubDate>Mon, 25 Feb 2019 22:45:28 +0900</pubDate>
@@ -60,7 +73,7 @@ Amazon では PATRIOT デスクトップ用16GB(8GBx2枚組) が10,499円 、 PA
       <guid>http://yano4413.github.io/bravotouring/post/20190225_railfan/</guid>
       <description>東洋経済オンラインの記事 に目が止まった。
 鉄道好きであれば誰もが手にしたことがあるであろう各種の鉄道雑誌。その中でも人気が高い老舗の月刊『鉄道ファン』が昨年9月1日、バックナンバー公開サービス「鉄道ファン図書館」をネット上に開設した。
-鉄道ファン図書館 によると『鉄道ファン図書館』は，株式会社交友社が刊行している月刊『鉄道ファン』の絶版本（バックナンバー）を閲覧できるサービスです．月額388円（税込）で読み放題です．バックナンバーは現在84冊を公開中で，毎月12冊程度追加されていきます． との事だが、 1961年に発刊した月刊『鉄道ファン』はまもなく通巻700号に達し，さらに創刊60周年に向けて歩み続けています．　現在，絶版となった600冊以上のバックナンバーは，愛読者の方々からは大変貴重な鉄道趣味界の文化財であるというお言葉を頂戴することもございます．これらの絶版バックナンバーを読めるインターネットサイトがほしいというご要望はこれまでもありましたが，その電子化費用が多額で，手をつけられませんでした．　けれども「このままでは過去の記事は永遠に読めなくなる」という危機感から，採算度外視でこの読み放題サービス開設を決断いたしました．開設からおよそ5年をかけて絶版バックナンバー全冊を電子化して公開する予定です．　このサイトを後世に遺すことにより，当社が少しでも鉄道趣味界の発展に貢献できれば望外の幸せです．　当サイト運営のためには皆様からの温かいご理解とご助力が必要です．ひと月コーヒー1杯程度の課金に抑えておりますので，ぜひご支援のほどお願い申し上げます． との 設立趣旨 に激しく共感。
+鉄道ファン図書館 によると『鉄道ファン図書館』は，株式会社交友社が刊行している月刊『鉄道ファン』の絶版本（バックナンバー）を閲覧できるサービスです．月額388円（税込）で読み放題です．バックナンバーは現在84冊を公開中で，毎月12冊程度追加されていきます． との事だが、  1961年に発刊した月刊『鉄道ファン』はまもなく通巻700号に達し，さらに創刊60周年に向けて歩み続けています．　現在，絶版となった600冊以上のバックナンバーは，愛読者の方々からは大変貴重な鉄道趣味界の文化財であるというお言葉を頂戴することもございます．これらの絶版バックナンバーを読めるインターネットサイトがほしいというご要望はこれまでもありましたが，その電子化費用が多額で，手をつけられませんでした．　けれども「このままでは過去の記事は永遠に読めなくなる」という危機感から，採算度外視でこの読み放題サービス開設を決断いたしました．開設からおよそ5年をかけて絶版バックナンバー全冊を電子化して公開する予定です．　このサイトを後世に遺すことにより，当社が少しでも鉄道趣味界の発展に貢献できれば望外の幸せです．　当サイト運営のためには皆様からの温かいご理解とご助力が必要です．ひと月コーヒー1杯程度の課金に抑えておりますので，ぜひご支援のほどお願い申し上げます． との 設立趣旨 に激しく共感。
 【参照】 ●東洋経済オンライン https://toyokeizai.net/ ┗老舗鉄道雑誌｢ネットで過去号読み放題｣の狙い 2019/02/24 ●月刊『鉄道ファン』 https://railf.jp/japan_railfan_magazine/ ●『鉄道ファン図書館』 https://railf-library.jp/ ┗設立趣旨 ●Wikipedia https://ja.wikipedia.org/wiki/ ┗鉄道ファン (雑誌) </description>
     </item>
     
@@ -84,6 +97,18 @@ Amazon では PATRIOT デスクトップ用16GB(8GBx2枚組) が10,499円 、 PA
 先日 、 Fire TV Stick 4K をポチッたばかりだが、 Fire OS な Amazon Fire TV でなく、ジェネリックな Android の Android TV も必要かと。
 CPUは Android TV のセットトップボックスとしてはポピュラーなAmlogic S905 (ARM Cotex-A53) Quad-core 2GHzとの事。「クアッドコア1.7GHz」な Fire TV Stick 4K よりも強力だが、通常売価に見合うだけの差があるかどうか、乞うご期待。
 【参照】 ●PHILE WEB https://www.phileweb.com/ ┣ピクセラ、4K/HDR対応のAndroid TV搭載STB「Smart Box」。14,800円 2017/09/20 ┗ピクセラ、4Kチューナー内蔵55型テレビを89,800円で販売するキャンペーン。STBは4,980円に 2019/02/15 ●AV Watch https://av.watch.impress.co.jp/ ┣【レビュー】24p出力・HDR・Alexa。すべてが強化された「Fire TV Stick 4K」。実はリモコンが◎ 2018/12/21 ┣TVをスマート化できる4K/HDR対応Android TV、ピクセラ「Smart Box」。約14,800円 2017/09/20 ┣Fire TV StickにAlexaやテレビ操作対応リモコン付き新モデル。4,980円 2019/01/16 ┗ピクセラ、4Kチューナ + Android搭載TVが43型69,800円のセール。55型89,800円 2019/02/15 ●バリューな商品を求めて http://value-kaden.com/ ┗アンドロイドTV BOXを比較してお安く購入 ●GPad https://gpad.</description>
+    </item>
+    
+    <item>
+      <title>統計不正問題</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190219_toukei/</link>
+      <pubDate>Tue, 19 Feb 2019 12:45:28 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190219_toukei/</guid>
+      <description>厚生労働省が15年にわたり毎月勤労統計調査を不適切な方法で実施し、結果的に総額約567.5億円の雇用保険(失業給付)が抑えられていたという問題。
+経緯や手法については ITmedia ビジネスオンラインの記事 が詳しい。
+それにしても 「統計の日」標語募集、総務省が謝罪 は、総務省でも問題があったのである意味当事者である事は間違いないし、タイミングが悪かったとは思うが「重大さ分かっていない」と責めるのもいかがなものかと。それはそれ、これはこれ。各々の仕事はしっかりやって下さい。
+【参照】 ●ITmedia ビジネスオンライン https://www.itmedia.co.jp/business/ ┣元日銀マンが斬る 厚労省の統計不正、真の“闇” 2019/01/17 ┗どれほど深刻？　厚労省不正統計問題を「超」分かりやすく解説 2019/02/07 ●ITmedia NEWS https://www.nishinippon.co.jp/ ┣厚労不正の一因？　国の統計職員10年で半減　「データ重視の今後に悪影響」声も 2019/01/25 ┗統計不正問題さなかに「統計の日」標語募集、総務省が謝罪　「重大さ分かっていないと指摘された」 2019/02/19 ●西日本新聞 https://www.nishinippon.co.jp/ ┣統計所得、過大に上昇　政府の手法変更が影響　専門家からは批判も 2018/09/12 ┣「一人旅」を免れた記事 2019/02/10 ┗統計不正はこれほどヤバい 2019/02/17 ●BuzzFeed News https://www.buzzfeed.com/jp/news ┗メディアで伝えられる厚生労働省の統計不正問題　雇用保険の受給額が抑えられていた可能性に、どうすればいいのか　厚労省の問い合わせダイヤルに電話してみた 2019/01/14 ●NHKニュース https://www3.nhk.or.jp/news/ ┣統計不正問題のニュース一覧 ┣ＳＮＳに皮肉る標語も 「統計の日」標語 募集継続へ 2019/02/15 ┗統計不正 歴代の部門トップ全員「数値のゆがみ知らず」 2019/02/18 ●厚生労働省 https://www.mhlw.go.jp/ ┣毎月勤労統計調査において全数調査するとしていたところを一部抽出調査で行っていたことについて 2019/01/11 ┣毎月勤労統計調査に係る雇用保険、労災保険等の追加給付について 2019/01/11 ┣毎月勤労統計調査を巡る不適切な取扱いに係る事実関係とその評価等に関する報告書について 2019/01/22 ┗毎月勤労統計調査（全国調査・地方調査） ●Wikipedia https://ja.wikipedia.org/wiki/ ┗毎月勤労統計調査 </description>
     </item>
     
     <item>
@@ -152,6 +177,19 @@ NTTグループの Kakeibon は NTT-X Store まで対応していてビックリ
     </item>
     
     <item>
+      <title>エアコン修理</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190213_aircon/</link>
+      <pubDate>Wed, 13 Feb 2019 22:45:28 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190213_aircon/</guid>
+      <description>エアコン故障 の続報。
+「延長保証」引受会社倒産は驚いたが、「ワランティテクノロジー」経由で無事に修理依頼できたので、本日メーカーのダイキンから担当者がやってきた。
+ダイキン「うるるとさらら(AN71LRPJ)」の室内機、室外機を一通り診断してフラップを動かす部分のモーター故障という診断で、保証範囲内の無償修理完了。
+営業活動というわけでもないだろうが「エアコンクリーニング」を勧められたのでいくらぐらいか尋ねたところ「他社を探した方が安上がりで良いですよ」との事であった。
+【参照】 ●ダイキン工業株式会社 https://www.daikin.co.jp/ ●ワランティテクノロジー https://wrt.co.jp/ ●Wikipedia https://ja.wikipedia.org/wiki/ ┣ダイキン工業 ┗エア・コンディショナー </description>
+    </item>
+    
+    <item>
       <title>Fire TV Stick 4K</title>
       <link>http://yano4413.github.io/bravotouring/post/20190212_firetv4k/</link>
       <pubDate>Tue, 12 Feb 2019 23:56:04 +0900</pubDate>
@@ -165,6 +203,47 @@ Fire TV Stick 4K はまだ下がりそうにないし、4K対応ディスプレ�
     </item>
     
     <item>
+      <title>ウィンターファミリーキャンプ</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190209_yasu_camp/</link>
+      <pubDate>Sat, 09 Feb 2019 23:38:54 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190209_yasu_camp/</guid>
+      <description>昨年 に続いて 国立夜須高原青少年自然の家 のウィンターファミリーキャンプに参加。
+去年と違って雪遊びは期待できなかったものの、今年も工作やたき火を楽しみました。
+子供たちは正月明けから楽しみにしてたお友達と一緒にお泊まりができて大満足。
+着いて早々に「明日も泊りたい」「また来たい」と連呼してました。
+【参照】 ●国立夜須高原青少年自然の家 http://yasu.niye.go.jp/ ●夜須高原のそよ風 http://yasukougen.blog58.fc2.com/ ●Wikipedia https://ja.wikipedia.org/wiki/ ┗国立青少年自然の家 ●Amazon.co.jp https://www.amazon.co.jp/ ┗キャプテンスタッグ(CAPTAIN STAG) バーベキューコンロ 焚火台 ダッチオーブン 1台3役 ヘキサステンレス ファイア グリル バッグ付 M-6500 4,876円 </description>
+    </item>
+    
+    <item>
+      <title>エアコン故障</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190206_aircon/</link>
+      <pubDate>Wed, 06 Feb 2019 22:45:28 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190206_aircon/</guid>
+      <description>最近、リビングのエアコンが停止状態でもフラップが微妙に開くように(≒閉まらなく)なってきた。
+2011年 調達のダイキン「うるるとさらら(AN71LRPJ)」なので、まもなく満８年を迎えるベテラン選手。フラップが開かないならともかく、閉まらないなら冷暖房の能力には問題無い。とは言え、開閉方向には関係無く完全に動かなくなってしまう恐れ は多分にある。
+そう言うときのために エアコン専門店 エアコンのマツ で「延長保証10年」に入っているので大丈夫。
+…というわけで保証引受会社の「ワランティマート」に電話したところ「おかけになった電話番号は現在使われておりません」とのサプライズ。何と
+慌てて エアコン専門店 エアコンのマツ にコンタクトしたところ、「ワランティテクノロジー」に引き継がれたという事で胸をなで下ろした。
+【参照】 ●ダイキン工業株式会社 https://www.daikin.co.jp/ ●エアコン専門店 エアコンのマツ https://www.airmatsu.com/ ┗延長保証について ●ワランティテクノロジー https://wrt.co.jp/ ●スラド https://srad.jp/ ┗大手延長保証会社「ワランティマート」が民事再生手続開始 (#3011904) 2016/05/13 ●倒産情報-JC-NET（ジェイシーネット） http://n-seikei.jp/ ┣（株）ワランティマート、（株）ワランティオペレーティングサービス（東京）／民事再生申請 2016/04/01 ┗追報：（株）ワランティマート、（株）ワランティオペレーティングサービス（東京）／民事再生廃止 2016/06/27 ●Wikipedia https://ja.wikipedia.org/wiki/ ┣ダイキン工業 ┗エア・コンディショナー </description>
+    </item>
+    
+    <item>
+      <title>風呂ふた修理</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190205_furofuta/</link>
+      <pubDate>Tue, 05 Feb 2019 23:46:27 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190205_furofuta/</guid>
+      <description>2011年7月 に調達したシャッター式風呂フタ。
+7年以上経過し、カット可能な仕組みが災いして分解しかけてきた。
+取り敢えず100均の透明ガムテープで誤魔化していたのだが、湿気炸裂の風呂場では1ヶ月も保たず剥がれてしまうのが悩み。
+風呂フタにまた13,370円 コストをかけるのも釈然としないので、どうしたもんか…？と考えつつロイヤルホームセンターをうろついてたところ、水道管補修用など耐水性能を謳うテープが結構ある事に気付いた。
+というわけで、 3M スコッチ ダクトシールテープ を調達。色も揃ってていい感じだ。
+【参照】 ●【楽天市場】リビングート http://www.rakuten.ne.jp/gold/livingut/ ┗オーダーメイド　風呂ふた（ イージーウェーブ ）　80×155～161cm　銀イオン配合 13,370円 ●東プレ株式会社 http://www.topre1.co.jp/ ┗風呂ふた ●Amazon.co.jp https://www.amazon.co.jp/ ┗3M スコッチ ダクトシールテープ 48mm×27m DUCT-27 599円 </description>
+    </item>
+    
+    <item>
       <title>ST6000DM003</title>
       <link>http://yano4413.github.io/bravotouring/post/20190204_st6000dm003/</link>
       <pubDate>Mon, 04 Feb 2019 23:39:25 +0900</pubDate>
@@ -172,7 +251,17 @@ Fire TV Stick 4K はまだ下がりそうにないし、4K対応ディスプレ�
       <guid>http://yano4413.github.io/bravotouring/post/20190204_st6000dm003/</guid>
       <description>NTT-X Store から Barracuda 6TB ST6000DM003 が11,980円 (会員割引クーポン適用)、というDMが着弾。
 昨年末 にHDDの相場として「TB単価で2,000円前後」と書いたのはアキバのセール価格による最安値だったのだが、 SEAGATE ST6000DM003 [6TB SATA600 5400] の実勢価格を見ても「送料込みのTB単価で2,000円切り」はボーダーライン。 WD25EZRS死亡 で予備が無くなった上に 昨年5月 に11TBとなったRAIDボリュームも空き容量が10％を切った ところだったのでポチッとな。
-早速、空箱状態の IO DATA:HDC-LA4.0 に移設し、GT110b にUSB接続し、syslog出力から&amp;quot;/dev/sdj&amp;quot; で&amp;quot;unknown partition table&amp;quot; となっているのを確認。 root@GT110b:~# tail -f /var/log/syslog 2019-02-04T23:35:06.857604+09:00 GT110b kernel: [1026894.914699] sd 8:0:0:0: [sdj] Spinning up disk&amp;hellip; 2019-02-04T23:35:12.077627+09:00 GT110b kernel: [1026900.134284] sd 8:0:0:0: [sdj] Very big device. Trying to use READ CAPACITY(16). 2019-02-04T23:35:12.077632+09:00 GT110b kernel: [1026900.134650] sd 8:0:0:0: [sdj] 11721045168 512-byte logical blocks: (6.</description>
+早速、空箱状態の IO DATA:HDC-LA4.0 に移設し、GT110b にUSB接続し、syslog出力から&amp;quot;/dev/sdj&amp;quot; で&amp;quot;unknown partition table&amp;quot; となっているのを確認。  root@GT110b:~# tail -f /var/log/syslog 2019-02-04T23:35:06.857604+09:00 GT110b kernel: [1026894.914699] sd 8:0:0:0: [sdj] Spinning up disk&amp;hellip; 2019-02-04T23:35:12.077627+09:00 GT110b kernel: [1026900.134284] sd 8:0:0:0: [sdj] Very big device. Trying to use READ CAPACITY(16). 2019-02-04T23:35:12.077632+09:00 GT110b kernel: [1026900.134650] sd 8:0:0:0: [sdj] 11721045168 512-byte logical blocks: (6.</description>
+    </item>
+    
+    <item>
+      <title>福岡移転30周年</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190203_hawks30th/</link>
+      <pubDate>Sun, 03 Feb 2019 12:38:52 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190203_hawks30th/</guid>
+      <description>ホークス福岡移転30周年 という事で、 「ホークス平成振り返り」ニュースまとめ が始まった。
+【参照】 ●西日本新聞 https://www.nishinippon.co.jp/ ┣「ホークス平成振り返り」ニュースまとめ ┗ダイエー地元初陣で西武に勝った　負け投手は工藤【平成元年のホークス】 2019/02/03 ●福岡ソフトバンクホークス https://www.softbankhawks.co.jp/ ┣2019年「福岡移転30周年記念事業」実施について 2018/11/25 ┗ホークス福岡移転30周年サイト ●Wikipedia https://ja.wikipedia.org/wiki/ ┗福岡ソフトバンクホークス </description>
     </item>
     
     <item>
@@ -299,6 +388,20 @@ Googleなどのイメージ検索や「いらすとや」に押されて出番�
     </item>
     
     <item>
+      <title>プレマシー立会車検</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190119_shaken/</link>
+      <pubDate>Sat, 19 Jan 2019 23:28:30 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190119_shaken/</guid>
+      <description>2017年に購入 した プレマシー  。
+前回お願いした ミスター車検 だと朝持ち込んで夕方取りに行かなくてはならないのが手間だったので、以前はファミリーユサ福岡東店でもやってた マッハ車検 を探してみたのだが、なんと福岡市内にはなくなってしまったようだ。
+改めて調べてみると年中無休の「ホリデー車検」と「松岡モータース」を発見。そういえば グー保証 の担当工場が 松岡モータース の東営業所。本社なら年中無休みたいだが、東営業所でも土曜日なら車検作業OK、ということで本日108,973km で継続車検。
+追加作業としてはオイル交換3,200円 のみで、総額78,626円 。初年度登録から13年経過となり自動車重量税が24,600円から34,200円 に上がったのが痛いな。
+指摘事項としては発炎筒の期限切れ、エアエレメントとオイルエレメントの交換を推奨、右前輪がそろそろ寿命、バッテリーも経年的に要注意との事。
+【参照】 ●松岡モータース http://www.matsuoka-motars.co.jp/ ┗立会車検 ●ホリデー車検は一歩先の安心を考えます https://www.holiday-fc.co.jp/ ┗ホリデー車検 福岡東 ●国土交通省 http://www.mlit.go.jp/ ┗自動車：自動車整備工場には認証工場と指定工場があります。その違いは？ ●Wikipedia http://ja.wikipedia.org/wiki/ ┗自動車検査登録制度 </description>
+    </item>
+    
+    <item>
       <title>dynabook30周年</title>
       <link>http://yano4413.github.io/bravotouring/post/20190118_dynabook/</link>
       <pubDate>Fri, 18 Jan 2019 22:46:56 +0900</pubDate>
@@ -309,6 +412,19 @@ Googleなどのイメージ検索や「いらすとや」に押されて出番�
 CESの直前に存在が明らかにされていた 30周年記念のdynabook も Dynabookの13型 Gシリーズ として発表された。
 あれっ、アキュポイントはどこに？？
 【参照】 ●Engadget 日本版 https://japanese.engadget.com/ ┣シャープ、東芝PC事業買収を正式発表。商品・ブランドは継承 2018/06/05 ┣新社名は「Dynabook株式会社」、“シャープのPC”が復活 2018/12/03 ┣シャープ傘下のDynabook社、目指す未来は「真のdynabook」 2018/12/03 ┣『Dynabook株式会社』が始動、30周年記念のdynabookノートをチラ見せ 2019/01/07 ┣Dynabookの13型モバイルは“軽くてお手頃”。779g＋Office付きで14万円のGシリーズ発表 2019/01/16 ┗シャープとの協業度合は? LTE搭載機は? 新生Dynabook質疑応答での注目点を紹介 2019/01/17 ●ダイナブック https://dynabook.com/ ┗2019年PC春モデルの発売について－dynabookブランド誕生30周年記念モデル「dynabook G」シリーズを商品化－ 2019/01/17 ●Wikipedia https://ja.wikipedia.org/wiki/ ┣東芝 ┣シャープ ┣ダイナブック (東芝) ┣ダイナブック (企業) ┣ポインティング・スティック ┗タッチパッド </description>
+    </item>
+    
+    <item>
+      <title>アリゲーターケーブル</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190117_alligator/</link>
+      <pubDate>Thu, 17 Jan 2019 23:44:17 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190117_alligator/</guid>
+      <description>2012年3月 に購入したMR4 Fネタ。
+14日 の「うみなか自転車持ち込み」で分解車載した影響か、シフトフィールが極悪になって？？？と思っていたのだが、今朝の通勤前調整でプッツリ切れた。
+即日配送の ヨドバシ 調達で速攻交換したところ、久しぶりに「カチカチ」とチェンジするようになり感激。
+前回、 2014年末 に交換してたからちょうど4年という事になるのかな。もっと早く2年くらいで交換すべきだった、と反省。
+【参照】 ●gan well:岩井商会 http://www.iwaishokai.co.jp/ ┗ALLIGATOR ●ヨドバシ.com https://www.yodobashi.com/ ┣ALLIGATOR アリゲーター スリックステンレス・シフトインナーワイヤー [低摩擦係数インナーワイヤー]  319円 ┗ALLIGATOR アリゲーター P.T.F.Eステンレス・シフトインナーワイヤー [超低摩擦係数インナーワイヤー]  586円 </description>
     </item>
     
     <item>
@@ -333,6 +449,18 @@ ThinkPad T460s とのセット価格100円で文句言うな！というわけ�
 まず、お値段お手頃な マイクロソフトのCompact Optical Mouse 500 を調達。まず真っ先に小ささに驚いたが、使ってみるとやっぱり小さすぎだ。解像度(800dpi)も常用の ThinkPad Bluetooth レーザーマウス と違いすぎた。
 次に、レノボダイレクトで756円 だった ThinkPad USBレーザーマウス を調達。スペックはお馴染みの ThinkPad Bluetooth レーザーマウス と同じだが、使ってみると軽すぎて手を離した瞬間にケーブルの張力でカーソルが動いてしまうという罠にハマった。
 【参照】 ●Amazon.co.jp http://www.amazon.co.jp/ ┣マイクロソフト マウス 有線/USB接続/小型 ブラック Compact Optical Mouse 500 U81-00084 693円 ┣レノボ ThinkPad USBレーザーマウス 57Y4635 1,450円 ┣レノボ ThinkPad USB無線レーザーマウス 0A36193 2,820円 ┗レノボ ThinkPad Bluetoothレーザーマウス 0A36407 3,900円 ●Wikipedia https://ja.wikipedia.org/wiki/ ┗マウス (コンピュータ) </description>
+    </item>
+    
+    <item>
+      <title>うみなか初め</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190114_uminaka/</link>
+      <pubDate>Mon, 14 Jan 2019 23:44:17 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190114_uminaka/</guid>
+      <description>今年も年明け早々に 海の中道海浜公園 へ。
+&amp;quot;あいかちゃん&amp;quot; は 昨年4月 以来のマイ自転車(補助輪付き)を持ち込み。
+&amp;quot;広大くん&amp;quot; も大喜びでした。
+【参照】 ●国営公園 海の中道海浜公園 http://www.uminaka.go.jp/ ●Wikipedia https://ja.wikipedia.org/wiki/ ┗海の中道海浜公園 </description>
     </item>
     
     <item>
@@ -362,6 +490,32 @@ NETGEARのスイッチングハブ にと NETGEAR用マグネット3個セット
     </item>
     
     <item>
+      <title>十日恵比須</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190111_ebisu/</link>
+      <pubDate>Fri, 11 Jan 2019 23:16:13 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190111_ebisu/</guid>
+      <description>毎年恒例、 十日恵比須神社 の正月大祭。
+今年も何度か見送ったり出直したりして、結局最終日の出勤前に立ち寄り「残りえびす」に参戦。
+福引きの授与品は 昨年 の「重箱」に対して、今年は「5つ珠そろばん」。
+今年も商売繁盛、家内安全で！
+【参照】 ●十日恵比須神社 http://www.tooka-ebisu.or.jp/ ●Wikipedia https://ja.wikipedia.org/wiki/ ┣十日恵比須神社 ┗そろばん </description>
+    </item>
+    
+    <item>
+      <title>復興応援商品券</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190111_fukko/</link>
+      <pubDate>Fri, 11 Jan 2019 22:56:26 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190111_fukko/</guid>
+      <description>2017年7月 の 平成29年7月九州北部豪雨 で被災した 朝倉市 と 東峰村 。
+昨年に続いて20％のプレミアムが付く「復興応援商品券」が発行される事になり、それぞれ申込受付が始まった。
+いずれも1次販売の受付期間は1月31日(木)まで。
+今年は 2014年秋 に宿泊した ほうしゅ楽舎 の復活に期待して東峰村の方に軸足を置こうかな。
+【参照】 ●朝倉商工会議所 http://www.asakuracci.com/ ┗元気ばい！あさくら「復興応援券」を発行します。 2018/12/12 ●東峰村商工会 https://www.tohovsci.com/ ┗プレミアム率20％商品券発売決定 2018/12/17 ●Wikipedia https://ja.wikipedia.org/wiki/ ┣朝倉市 ┣東峰村 ┣平成29年7月九州北部豪雨 ┗平成30年7月豪雨 </description>
+    </item>
+    
+    <item>
       <title>第3世代Ryzen</title>
       <link>http://yano4413.github.io/bravotouring/post/20190110_ryzen/</link>
       <pubDate>Thu, 10 Jan 2019 23:25:05 +0900</pubDate>
@@ -387,6 +541,21 @@ NETGEARのスイッチングハブ にと NETGEAR用マグネット3個セット
     </item>
     
     <item>
+      <title>F800任意保険更新</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190108_zurich/</link>
+      <pubDate>Tue, 08 Jan 2019 22:11:13 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190108_zurich/</guid>
+      <description>11月末 のプレマシー から1ヶ月以上遅れたが F800ST  の任意保険も更新。
+いろいろと比較検討したが結局 昨年 と同じ チューリッヒ スーパーバイク保険 を継続。
+ほぼ同じ条件で10,330円から1,280円上がって11,610円に。
+手続き上 チューリッヒ の関連サイトを多く見ていたせいか、Webのターゲッティング広告がチューリッヒばかりに。
+もう契約したからええよ、っちゅうのにな。
+うんざりだ。
+【参照】 ●チューリッヒ保険会社 http://www.zurich.co.jp/ ┗スーパーバイク保険 </description>
+    </item>
+    
+    <item>
       <title>OMRON HeartGuide</title>
       <link>http://yano4413.github.io/bravotouring/post/20190107_omron_heartguide/</link>
       <pubDate>Mon, 07 Jan 2019 23:18:48 +0900</pubDate>
@@ -396,6 +565,36 @@ NETGEARのスイッチングハブ にと NETGEAR用マグネット3個セット
 今年のCESで 499ドルで発売 という発表があった。
 待ちきれずに…というよりも予算の都合上見限って、9,000円を切った 手首式血圧計 HEM-6323T を 昨年調達 したのは正解だった事に。
 【参照】 ●ギズモード・ジャパン https://www.gizmodo.jp/ ┗Apple Watchよりホンモノな医療機器クラスのスマートウォッチ：オムロンHeartGuideハンズオン 2018/12/27 ●Engadget 日本版 https://japanese.engadget.com/ ┗血圧測定機能付きスマートウォッチ「HeartGuide」。オムロンヘルスケアが499ドルで発売 2019/01/07 ●ITmedia NEWS http://www.itmedia.co.jp/news/ ┣“隠れ高血圧”の発見に役立つ腕時計型の血圧計、オムロンが開発 2018/01/12 ┗腕時計型のウェアラブル血圧計、ついに製品化　オムロンヘルスケアが北米で発売 2019/01/11 ●家電 Watch https://kaden.watch.impress.co.jp/ ┗オムロン、消費カロリーや睡眠も計測できるウェアラブル血圧計～CES2018 2018/01/12 ●Wikipedia https://ja.wikipedia.org/wiki/ ┣血圧計 ┗オムロン </description>
+    </item>
+    
+    <item>
+      <title>ヘルメット調達</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190106_helmet/</link>
+      <pubDate>Sun, 06 Jan 2019 23:31:51 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190106_helmet/</guid>
+      <description>「使用開始から3年が目安」とされるメーカー推奨交換サイクルを忘れたわけではないが、 2008年7月 に調達したSHOEIのヘルメットも10年以上経過。
+最近のモデルはサンバイザーがビルトインになっているという事もあって新調する方向で、初売りセールを期待して最寄りのバイク部品ショップ 福岡２りんかん に初出動。
+自分用のは特に無かったが、レディースコーナーで HJC の CL-Y ソリッド や SPEEDPIT の「RJ-66」を物色。いずれもSG規格の全排気量対応で「RJ-66」ならは1万円以下と値頃ではあったものの、馴染みの無いブランドだったので持ち帰り検討しようとしていたところ、 ワイズギア の YJ-17 ZENITH (定価22,680円)のXSサイズが12,800円 になっていたのを発見。
+現品限定で色もブラックだけだったが意外にも「黒でもいいよ♪」と好印象、ビルトインサンバイザーも「変身みたいでカッコいい」と気に入った様子。試着してみたところサイズ感も良さげだったので、ノーブランドより安心だろうという観点から調達決定。
+ちなみにXSサイズの実測重量は1,458g。Lサイズで1,310gだった「YJ-5 ZENITH」よりも1割以上重くなってる勘定ですな。
+&amp;lt;!- Lサイズの実測重量は1,484g &amp;ndash;&amp;gt; 【参照】
+●バイク用品店｜２りんかん https://2rinkan.jp/
+┗福岡２りんかん
+●ワイズギア https://www.ysgear.co.jp/
+┣YJ-17 ZENITH
+┗YJ-17 ZENITH-P
+●SPEEDPIT http://www.speedpit.com/
+●HJC helmets http://www.hjchelmets.com/
+●HJC Helmets http://www.rs-taichi.co.jp/hjc/
+┗HJH057 CL-Y ソリッド
+●一般財団法人製品安全協会 | SGマーク https://www.sg-mark.org/
+┗乗車用ヘルメット
+●Wikipedia http://ja.wikipedia.org/wiki/
+┣オートバイ
+┣ヘルメット (オートバイ)
+┣ワイズギア
+┗ホンジンHJC </description>
     </item>
     
     <item>
@@ -409,6 +608,48 @@ NETGEARのスイッチングハブ にと NETGEAR用マグネット3個セット
 …と思って調べたところ「ご同輩」は少なくないようで、 Alexaスキル:NHKラジオニュース を有効にすれば良い、とわかり一件落着。
 ちなみに Alexaスキル:NHKラジオニュース であっても単に「ラジオ第1」のオンエアを時間指定で録音しているだけらしく、大相撲開催期間中の夕方４～６時はニュースの代わりに大相撲中継となってしまう事故が多い(笑)。
 【参照】 ●Echo Dot Room https://echodotroom.com/ ┣Amazon Echo Spot　タッチスクリーンからの設定変更 2018/07/26 ┗Amazon Echo Spotで利用するおすすめニューススキル 2018/07/30 ●Wikipedia https://ja.wikipedia.org/wiki/ ┣Amazon.co.jp ┣Amazon Alexa ┗Amazon Echo ●Amazon.co.jp https://www.amazon.co.jp/ ┣Alexaスキル:NHKニュース ┗Alexaスキル:NHKラジオニュース n </description>
+    </item>
+    
+    <item>
+      <title>勝山公園</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190104_katsuyama_park/</link>
+      <pubDate>Fri, 04 Jan 2019 23:59:28 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190104_katsuyama_park/</guid>
+      <description>阪九フェリー は定刻通り朝6時に新門司港に到着。
+ジョイフル到津店でのんびりと朝食を楽しんで、広大くんは抜糸の為に 健和会大手町病院 へ。
+お姉ちゃん２人は 勝山公園 で元気炸裂。
+立派な タコの山 もあるのだけれど、子供たちは 和布刈公園 でお馴染みのせいか、「飽きた」との事…
+息抜き＆トイレ休憩がてら、12月22日(土)に開館したばかりの 子ども図書館 にも行きましたよ。
+『資さんうどん』 貴船店でお昼を済ませ戸畑へ。
+【参照】 ●健和会大手町病院 https://otemachi.kenwakai.gr.jp/ ●北九州市 http://www.city.kitakyushu.lg.jp/ ┣和布刈公園（めかり） ┣勝山公園 ┗北九州市立子ども図書館 ●勝山公園 https://katsuyama-park.com/ ●北九州市立子ども図書館 https://www.toshokan.city.kitakyushu.jp/kodomotoshokan/ ●小倉経済新聞 https://kokura.keizai.biz/ ┗北九州市に「タコ山」公園11カ所－「国内最大級4,000万円」のタコも 2014/11/28 ●滑り台記録 http://doneslide.fc2web.com/ ┗タコの山（石の山） ●前田環境美術株式会社 http://www.e-maeda.co.jp/ ┗タコの山のすべり台 ●Wikipedia http://ja.wikipedia.org/wiki/ ┣北九州市 ┣和布刈公園 ┣勝山公園 (北九州市) ┗タコの山 </description>
+    </item>
+    
+    <item>
+      <title>阪九フェリー</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190103_ferry/</link>
+      <pubDate>Thu, 03 Jan 2019 23:59:28 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190103_ferry/</guid>
+      <description>珍しくのんびり過ごした年末年始の帰省を終えて、福岡へUターン。
+昨年 は大阪・南港発の 名門大洋フェリー だったが、今回は復路も 阪九フェリー 。
+「デラックス和洋室・2～3人部屋」で40,700円だった 往路 に対して、復路はリーズナブルな2等和室で26,880円 。
+期待通りに同部屋のお友達もできたので、子供たちも退屈せずに済んで良かった。
+18時35分に通過した明石海峡大橋はライトアップしていたが、21時45分に通過した瀬戸大橋は残念ながらライトアップしていなかった よ。
+瀬戸大橋ライトアップスケジュール によると21時半までだったらしくガッカリ。
+【参照】 ●阪九フェリー https://www.han9f.co.jp/ ┗客室のご紹介 ●JB本四高速 https://www.jb-honshi.co.jp/ ┗瀬戸大橋ライトアップスケジュール ●Wikipedia http://ja.wikipedia.org/wiki/ ┣阪九フェリー ┗ひびき (フェリー) </description>
+    </item>
+    
+    <item>
+      <title>熊本地震１周年</title>
+      <link>http://yano4413.github.io/bravotouring/post/20190103_earthquake/</link>
+      <pubDate>Thu, 03 Jan 2019 18:10:00 +0900</pubDate>
+      
+      <guid>http://yano4413.github.io/bravotouring/post/20190103_earthquake/</guid>
+      <description>1月3日18時10分頃、熊本県熊本地方で地震 が発生。和水町（なごみまち）で震度6弱を観測したそうだ。
+言うまでも無く 2016年4月 の 熊本地震 (2016年) を思い出したが、震源域が２０キロ程度離れていることから「別のものと考えている」そうだ。
+大きな被害も無かったようで何より。
+【参照】 ●日本気象協会 tenki.jp http://www.tenki.jp/ ┣地震情報 ┣過去の地震情報 震度6弱以上(日付の新しい順) ┣地震情報 2016年04月14日 21時26分頃発生 最大震度：7 震源地：熊本県熊本地方 2016/04/14 ┣地震情報 2016年04月15日 00時03分頃発生 最大震度：6強 震源地：熊本県熊本地方 2016/04/15 ┣地震情報 2016年04月16日 01時25分頃発生 最大震度：7 震源地：熊本県熊本地方(長崎の東９０ｋｍ付近) 2016/04/16 ┣地震情報 2016年04月16日 03時55分頃発生 最大震度：6強 震源地：熊本県阿蘇地方 2016/04/16 ┗地震情報 2019年01月03日 18時10分頃発生 最大震度：6弱 震源地：熊本県熊本地方 2019/01/03 ●気象庁 https://www.jma.go.jp/ ┣平成２８年（２０１６年）熊本地震の関連情報 ┗平成３１年１月３日１８時１０分頃の熊本県熊本地方の地震について ●Wikipedia http://ja.wikipedia.org/wiki/ ┣熊本地震 (2016年) ┗布田川・日奈久断層帯 </description>
     </item>
     
     <item>
